@@ -1,0 +1,68 @@
+p {
+    margin: 0;
+}
+
+.topN {
+    text-align: center;
+    padding: 5px 0;
+}
+
+.Heading {
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    padding: 19px;
+}
+
+.Heading span {
+    letter-spacing: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.boxed {
+    margin-top: 15px;
+}
+
+.dotted {
+    border: 1px dotted black;
+}
+
+.solid {
+    border: 1px solid black;
+}
+
+.dashed {
+    border: 1px dashed black;
+}
+
+.drop-sides {
+    border-left: none !important;
+    border-right: none !important;
+}
+
+.drop-top {
+    border-top: none !important;
+}
+
+.top-margin {
+    margin-top: 15px;
+}
+
+.top-margin2 {
+    margin-top: 10px !important;
+}
+
+.normalPara {
+    margin: 10px 0;
+}
+
+.padding {
+    padding: 15px;
+}
+
+.spaced {
+    padding-bottom: 10px;
+}

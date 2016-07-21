@@ -20,7 +20,6 @@ body {
   color: #fff;
 }
 
-
 /* Custom page CSS
 -------------------------------------------------- */
 
@@ -28,9 +27,6 @@ body {
   width: auto;
   max-width: 680px;
   padding: 0 15px;
-}
-.container p {
-  margin: 5px 0px;
 }
 
 nav {
@@ -57,4 +53,20 @@ main .container {
   background-color: #EFE3D2;
   color: black;
   height: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  .dropdown-menu li a {
+    color: #fff;
+  }
+
+  .form-group {
+    width: 60%;
+    float: left;
+    margin-right: 20px;
+  }
+
+  .navbar-form button {
+    width: 30%;
+  }
 }
