@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cloud</title>
+    <style>
+        body {
+            background-color: #00AA88;
+        }
+
+        /* The Modal (background) */
+        .modal {
+            visibility: hidden; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            /*background-color: rgb(0,0,0); !* Fallback color *!*/
+            /*background-color: rgba(0,0,0,0.4); !* Black w/ opacity *!*/
+            opacity: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* Modal Content */
+        .modal-content {
+            margin: auto;
+            width: 40%;
+            height: 75%;
+            backdrop-filter: blur(15px);
+            background: radial-gradient(circle, rgba(255,255,255, 1) 50%, rgba(255,255,255, 0) 65%);
+            /*box-shadow: inset 0 0 2em 2em rgba(255,255,255,.3);*/
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .open {
+            visibility: visible;
+            transition-duration: 1s;
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Modal Example</h2>
+
+<!-- Trigger/Open The Modal -->
+<button id="myBtn">Open Modal</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+    <!-- Modal content -->
+    <div class="modal-content">
+        <p>Some text in the Modal..</p>
+    </div>
+
+</div>
+
+<script>
+    // Get the modal
+    var modal = document.getElementById('myModal');
+
+    // Get the button that opens the modal
+    var btn = document.getElementById("myBtn");
+
+    // When the user clicks the button, open the modal
+    btn.onclick = function() {
+        modal.className += " open";
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.className = modal.className.replace(" open", "");
+        }
+    }
+</script>
+
+</body>
+</html>
