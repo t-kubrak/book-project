@@ -47,6 +47,14 @@ p {
     border-top: none !important;
 }
 
+.drop-left {
+    border-left: none;
+}
+
+.drop-bottom {
+    border-bottom: none;
+}
+
 .top-margin {
     margin-top: 15px;
 }
@@ -70,3 +78,8 @@ p {
 .indent {
     text-indent: 5px;
 }
+
+.right {
+    text-align: right;
+}
+
