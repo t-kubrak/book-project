@@ -83,7 +83,43 @@ p {
     text-align: right;
 }
 
-.spaceupWords {
+.spaceupWords1 {
+    word-spacing: 1px;
+}
+
+.spaceupWords2 {
     word-spacing: 2px;
 }
 
+.spaceupWords3 {
+    word-spacing: 3px;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+.center {
+    text-align: center;
+}
+
+.break:before {
+    content: "\A";
+    white-space: pre;
+}
+
+.title1 {
+    margin-top: 152px;
+}
+
+.title2{
+    margin-top: 114px;
+}
+
+.title3 {
+    margin-top: 19px;
+}
+
+.title4 {
+    margin-top: 76px;
+}
