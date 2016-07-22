@@ -66,3 +66,7 @@ p {
 .spaced {
     padding-bottom: 10px;
 }
+
+.indent {
+    text-indent: 5px;
+}

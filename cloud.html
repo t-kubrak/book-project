@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Cloud</title>
     <style>
         body {
@@ -21,6 +22,7 @@
             /*background-color: rgb(0,0,0); !* Fallback color *!*/
             /*background-color: rgba(0,0,0,0.4); !* Black w/ opacity *!*/
             opacity: 0;
+            transition-duration: 1s;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -29,20 +31,35 @@
         /* Modal Content */
         .modal-content {
             margin: auto;
-            width: 40%;
-            height: 75%;
-            backdrop-filter: blur(15px);
-            background: radial-gradient(circle, rgba(255,255,255, 1) 50%, rgba(255,255,255, 0) 65%);
+            min-height: 95%;
+            width: 50%;
+            /*backdrop-filter: blur(15px);*/
+            /*background: radial-gradient(circle, rgba(255,255,255, 1) 50%, rgba(255,255,255, 0) 65%);*/
             /*box-shadow: inset 0 0 2em 2em rgba(255,255,255,.3);*/
+            background-image: url(assets/img/scroll.png);
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
             display: flex;
             justify-content: center;
             align-items: center;
+            box-sizing: border-box;
+            padding: 15% 11%;
         }
 
         .open {
             visibility: visible;
             transition-duration: 1s;
             opacity: 1;
+        }
+
+        @media screen and (max-width: 767px) {
+            .modal-content {
+                background-size: cover;
+                width: 80%;
+                height: 70%;
+                padding: 15% 5%;
+            }
         }
     </style>
 </head>
@@ -58,7 +75,17 @@
 
     <!-- Modal content -->
     <div class="modal-content">
-        <p>Some text in the Modal..</p>
+        <p>
+            some title
+            On January 31, 1990, sometime before dawn, Dr. Rashad Khalifa was martyred by one or more disbelievers who broke into the masjid earlier that night and waited for him to come in. It was a well known fact that Dr. Khalifa would come every day in the early hours to carry on his work on the Quran translation.
+            Dr. Rashad Khalifa was the autor of several books. This book is being printed is being printed for the first time after his death. Nothing has been deleted or added.
+            some information
+            some more information.ads
+            afasdfas asdf as
+            asdfasdf
+            asdfasdf
+            more and more
+        </p>
     </div>
 
 </div>
@@ -66,6 +93,7 @@
 <script>
     // Get the modal
     var modal = document.getElementById('myModal');
+    var modalContent = document.querySelector('.modal-content');
 
     // Get the button that opens the modal
     var btn = document.getElementById("myBtn");
@@ -73,14 +101,27 @@
     // When the user clicks the button, open the modal
     btn.onclick = function() {
         modal.className += " open";
-    }
+        setTimeout(function() {
+            modal.className = modal.className.replace(" open", "");
+        }, 90000)
+    };
 
     // When the user clicks anywhere outside of the modal, close it
     window.onclick = function(event) {
-        if (event.target == modal) {
+        if (event.target == modal || event.target == modalContent) {
             modal.className = modal.className.replace(" open", "");
         }
-    }
+    };
+
+    (function() {
+        setTimeout(function() {
+            modal.className += " open";
+        }, 500);
+        
+        setTimeout(function() {
+            modal.className = modal.className.replace(" open", "");
+        }, 90000)
+    })()
 </script>
 
 </body>
