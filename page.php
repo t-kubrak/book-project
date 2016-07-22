@@ -1,7 +1,7 @@
 <?php
 include_once "layout_header.php";
 
-echo "<div class=\"text-center\">";
+echo "<div>";
 
 $servername = "localhost";
 $username = "root";
@@ -20,7 +20,7 @@ $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
     while($row = $result->fetch_assoc()) {
-       echo html_entity_decode($row["content_html"])."<br>";
+       echo htmlspecialchars_decode($row["content_html"])."<br>";
     }
 } else {
     echo "0 results";
