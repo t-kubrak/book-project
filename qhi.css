@@ -3,19 +3,21 @@ p {
 }
 
 .topN {
+    margin-top: 5px;
     text-align: center;
     padding: 5px 0;
 }
 
 .heading {
+    margin-top: 19px;
     text-align: center;
     letter-spacing: 2px;
-    word-spacing: 2px;
+    word-spacing: 1.9px;
     padding: 19px;
 }
 
 .heading span {
-    letter-spacing: normal;
+    letter-spacing: 1.19px;
 }
 
 .bold {
@@ -71,6 +73,10 @@ p {
     padding: 15px;
 }
 
+.paddSides {
+    padding: 0 15px;
+}
+
 .spaced {
     padding-bottom: 10px;
 }
@@ -103,6 +109,11 @@ hr {
     text-align: center;
 }
 
+.divCenter {
+    text-align: center;
+    width:inherit;
+}
+
 .break:before {
     content: "\A";
     white-space: pre;
@@ -122,4 +133,25 @@ hr {
 
 .title4 {
     margin-top: 76px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.ml {
+    margin-left: 38%;
+}
+
+.ml2 {
+    margin-right: 19%;    
+}
+
+.ml3 {
+    margin-right: 5%;
+}
+
+#no1 {
+    position: fixed;
+    bottom:38px;
 }

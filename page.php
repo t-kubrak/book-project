@@ -6,7 +6,7 @@ echo "<div>";
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "book";
+$dbname = "test";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -15,7 +15,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-$sql = "SELECT content_html FROM book.qhi_en";
+$sql = "SELECT * FROM test.QHI_EN where pageId=13"; //pageId=(SELECT MAX(pageId) FROM test.QHI_EN)";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
