@@ -1,12 +1,18 @@
-p {
-    margin: 0;
+/* TITLE */
+
+.title1 {
+    margin-top: 152px;
 }
 
-.topN {
-    margin-top: 5px;
-    text-align: center;
-    padding: 5px 0;
+.title3 {
+    margin-top: 38px;
 }
+
+.title4 {
+    margin-top: 76px;
+}
+
+/* HEADING */
 
 .heading {
     margin-top: 19px;
@@ -20,20 +26,55 @@ p {
     letter-spacing: 1.19px;
 }
 
+/* TEXT */
+
+.indent {
+    text-indent: 19px;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
 .bold {
     font-weight: bold;
 }
 
-.boxed {
-    margin-top: 15px;
+/* NO UNDERLINE */
+
+.nu {
+    text-decoration: none !important;
 }
 
-.dotted {
-    border: 1px dotted black;
+/* PARAGRAPHS */
+
+.p2 {
+    margin: 10px 0;
 }
+
+p{
+    margin: 6px 0 10px 0;
+}
+
+/* PAGE NUMBER*/
+
+.page-number {
+    margin: 10px 0;
+    text-align: center;
+}
+
+/* BORDER */
 
 .solid {
     border: 1px solid black;
+}
+
+.bottom{
+    border-bottom: 1px solid black;
 }
 
 .dashed {
@@ -43,6 +84,66 @@ p {
 .drop-sides {
     border-left: none !important;
     border-right: none !important;
+}
+
+/* PADDING */
+
+.padding-5{
+    padding: 5px !important;
+}
+
+.padding-10 {
+    padding: 10px !important;
+}
+
+.padding-15 {
+    padding: 15px !important;
+}
+
+.padding-sides-15 {
+    padding: 0 15px;
+}
+
+/* MARGIN */
+
+.margin-top-15 {
+    margin-top: 15px !important;
+}
+
+/* LETTER SPACING */
+
+.letter-spacing-3{
+    letter-spacing: 3px !important;
+}
+
+.letter-spacing-0{
+    letter-spacing: normal !important;
+}
+
+/* WORD SPACING */
+
+.word-spacing-0{
+    word-spacing: normal !important;
+}
+
+.word-spacing-2 {
+    word-spacing: 2px;
+    letter-spacing: 1.5px;
+    text-decoration: underline;
+}
+
+/************ NOT USED **************/
+
+body{
+    overflow-y: auto;
+}
+
+.tiny-space{
+    font-size: 1px;
+}
+
+.dotted {
+    border: 1px dotted black;
 }
 
 .drop-top {
@@ -57,44 +158,16 @@ p {
     border-bottom: none;
 }
 
-.top-margin {
-    margin-top: 15px;
-}
-
 .top-margin2 {
     margin-top: 10px !important;
-}
-
-.normalPara {
-    margin: 10px 0;
-}
-
-.padding {
-    padding: 15px;
-}
-
-.paddSides {
-    padding: 0 15px;
 }
 
 .spaced {
     padding-bottom: 10px;
 }
 
-.indent {
-    text-indent: 5px;
-}
-
-.right {
-    text-align: right;
-}
-
 .spaceupWords1 {
     word-spacing: 1px;
-}
-
-.spaceupWords2 {
-    word-spacing: 2px;
 }
 
 .spaceupWords3 {
@@ -103,10 +176,6 @@ p {
 
 hr {
     border: 1px solid black;
-}
-
-.center {
-    text-align: center;
 }
 
 .divCenter {
@@ -119,20 +188,8 @@ hr {
     white-space: pre;
 }
 
-.title1 {
-    margin-top: 152px;
-}
-
 .title2{
     margin-top: 114px;
-}
-
-.title3 {
-    margin-top: 19px;
-}
-
-.title4 {
-    margin-top: 76px;
 }
 
 .justify {
@@ -152,6 +209,5 @@ hr {
 }
 
 #no1 {
-    position: fixed;
     bottom:38px;
 }
