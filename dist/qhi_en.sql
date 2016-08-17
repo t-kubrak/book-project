@@ -538,381 +538,380 @@ INSERT INTO `qhi_en` (`id`, `pageId`, `lineNumber`, `boxId`, `barId`, `content_h
 (507, 61, 5, 1, 1, '&lt;div class="margin-top-15 solid drop-sides padding-15" &gt;arabic&lt;/div&gt;'),
 (508, 61, 6, 1, 1, '&lt;p&gt;&ldquo;You shall be strictly righteous at every mosque, and worship God, devoting your worship absolutely to Him alone. Just as He created you initially, you will be returned. Some He guides. Others are committed to straying, for they take the devils as allies instead of God, and &lt;u&gt;THINK&lt;/u&gt; that they are rightly guided.&rdquo; (7:29-30)&lt;/p&gt;'),
 (509, 61, 7, 1, 1, '&lt;div class="margin-top-15 solid drop-sides padding-15" &gt;arabic&lt;/div&gt;'),
-(510, 61, 8, 1, 1, '&lt;p&gt;&ldquo;The worst losers are those who go astray, then THINK that they are rightly guided.&rdquo; (18:103-104)&lt;/p&gt;'),
-(511, 62, 1, 1, 1, '- 54 -'),
-(512, 62, 2, 1, 1, 'UNAWARE OF THEIR IDOL WORSHIP'),
-(513, 62, 3, 1, 1, 'The majority of &ldquo;believers&rdquo; fall into idolworship without realizing it; they are not aware that they are idolaters:'),
-(514, 62, 4, 1, 1, 'arabic'),
-(515, 62, 5, 1, 1, '&ldquo;On the day (of judgment) when we gather all the people, we will ask the idolworshipers, &lsquo;Where are your idols whom you set up beside God?&rsquo; Then, their only answer will be, &lsquo;By God our Lord, we were not idolworshipers.&rsquo; Note how they lied even to themselves, and note that the idols they had set up will abandon them.&rdquo; (6:22-24)'),
-(516, 62, 6, 1, 1, 'dashed bar'),
-(517, 62, 7, 1, 1, 'Thus, there are people who are idolworshipers, who are unaware of their idolatry. Could you be one of them? How do you know that you are not one of them? This is your only chance to ascertain that you are not an idolworshiper.'),
-(518, 62, 8, 1, 1, 'dashed bar'),
-(519, 62, 9, 1, 1, 'HOW CAN YOU ASCERTAIN THAT YOUR ARE NOT AN IDOLWORSHIPER?\n\nThe answer on Page 55.'),
-(520, 62, 10, 1, 1, 'solid bar'),
-(521, 63, 1, 1, 1, '- 55 -'),
-(522, 63, 2, 1, 1, 'THE IMPORTANCE OF &ldquo;HADITH '),
-(523, 63, 3, 1, 1, 'Quran teaches that &ldquo;Hadith '),
-(524, 63, 4, 1, 1, 'dashed bar'),
-(525, 63, 5, 1, 1, 'The true Muslim believes God in His statements that Quran is complete, perfect, and fully detailed (6:19, 38, '),
-(526, 63, 6, 1, 1, 'dashed bar'),
-(527, 63, 7, 1, 1, 'As for the false Muslim, he or she will become attracted to &ldquo;Hadith '),
-(528, 63, 8, 1, 1, 'arbi'),
-(529, 63, 9, 1, 1, '&ldquo;We set up against every prophet enemies, human and jinn devils, who exhort each other to invent fancy statements in order to deceive. Had your Lord willed, they would not have done it. (But it is God&rsquo;s will) in order that the minds of those who do not believe in the hereafter may listen thereto, and to let them accept it, and to expose their true identity.&rdquo; (6:112-113)'),
-(530, 63, 10, 1, 1, 'dashed bar'),
-(531, 63, 11, 1, 1, 'Are you satisfied with the Quran? Do you believe God? Or, do you feel that Quran is not complete; that you need additional sources of religious guidance?'),
-(532, 64, 1, 1, 1, '- 56 -'),
-(533, 64, 2, 1, 1, 'ONE AUTHENTIC &ldquo;HADITH&rdquo;'),
-(534, 64, 3, 1, 1, 'On the day of judgment, Muhammad will be the first to complain that his followers had abandoned Quran, in favor of the fabrications by his enemies (Hadith '),
-(535, 64, 4, 1, 1, 'arbi'),
-(536, 64, 5, 1, 1, '&ldquo;And the messenger will say, &lsquo;My Lord, my people have deserted THIS QURAN.&rsquo; We thus set up against every prophet enemies who are wicked. YOUR LORD SUFFICES AS A GUIDE AND SUPPORTER (i.e., Quran is enough).&rdquo; (25:30-31)'),
-(537, 64, 6, 1, 1, 'dashed bar'),
-(538, 64, 7, 1, 1, 'Note the word for word similarity between 25:31 shown above, and 6:112 shown on the previous page. Could this be coincidental?'),
-(539, 64, 8, 1, 1, 'dashed bar'),
-(540, 64, 9, 1, 1, 'Thus, the prophet Muhammad will be disappointed with those who love him excessively, just as Jesus will be disappointed with those Christians who considered him to be a god or son of God.'),
-(541, 64, 10, 1, 1, 'solid bar'),
-(542, 65, 1, 1, 1, '- 57 -'),
-(543, 65, 2, 1, 1, 'QURAN: THE ONLY LEGITIMATE &ldquo;HADITH&rdquo;'),
-(544, 65, 3, 1, 1, 'arbi'),
-(545, 65, 4, 1, 1, '&ldquo;These are God&rsquo;s verses; we recite them for you truthfully. In which &ldquo;Hadith&rdquo;, beside God and His verses, do they believe in? WOE TO EVERY SINFUL FABRICATOR. He hears God&rsquo;s verses, then insists arrogantly on his way, as if he never heard them; promise him painful retribution. When he learns anything from our verses, he takes it in vain; these have deserved humiliating retribution. Awaiting them is hell; neither their earnings, nor the idols they had set up beside God can help them; they have deserved terrible retribution. THIS IS THE GUIDANCE, and those who do not believe the verses of their Lord will suffer debasement, and painful retribution.&rdquo; (45:6-11)'),
-(546, 65, 5, 1, 1, 'dashed bar'),
-(547, 65, 6, 1, 1, 'Do you believe God&rsquo;s verses? Do you believe that Quran is complete, perfect, and fully detailed (6:19, 38, '),
-(548, 65, 7, 1, 1, 'solid bar'),
-(549, 66, 1, 1, 1, '- 58 -'),
-(550, 66, 2, 1, 1, 'Quran is the only &ldquo;Hadith&rdquo; to be followed; all other Hadiths are blasphemous and misleading fabrications:'),
-(551, 66, 3, 1, 1, 'arbi'),
-(552, 66, 4, 1, 1, '&ldquo;God has revealed the best &lsquo;Hadith&rsquo;; a book that is consistent, and describes both ways (to heaven and Hell). The skins of those who reverence their Lord shudder therefrom, then their skins and hearts soften up and receive God&rsquo;s message. Such is God&rsquo;s guidance; He guides whomever He wills. As for those sent astray by Him, no one can guide them.&rdquo; (39:23)'),
-(553, 66, 5, 1, 1, 'arbi'),
-(554, 66, 6, 1, 1, '&ldquo;There are those who advocate vain &lsquo;Hadith&rsquo; causing diversion from the path of God, without knowledge, and fail to take such actions seriously; these have deserved humiliating retribution. And when our verses are recited to him, he turns away arrogantly, as if he never heard them; as if his ears are deaf; promise him painful retribution.&rdquo; (31:67)'),
-(555, 67, 1, 1, 1, '-59 -'),
-(556, 67, 2, 1, 1, 'THE PHYSICAL EVIDENCE'),
-(557, 67, 3, 1, 1, 'In addition to the clear Quranic statements assuring the believers that Quran is complete; perfect, fully detailed, and shall be the ONLY source of religious guidance, it was the will of God Almighty to further support these revelations with irrefutable PHYSICAL EVIDENCE.'),
-(558, 67, 4, 1, 1, 'dashed bar'),
-(559, 67, 5, 1, 1, 'A mathematical miracle was discovered in Quran, whereby every word, indeed every letter, was placed in Quran in accordance with an extremely intricate numerical code. The code is based on the number [19], which is the number of letters in the opening statement of Quran, and the number indicated in 74:30 as providing the answer to those who claim that Quran is manmade. This mathematical miracle proves beyond doubt that Quran is a divine scripture, and that it has been perfectly preserved. For details please see the book, &ldquo;QURAN: VISUAL PRESENTATION OF THE MIRACLE.&rdquo;'),
-(560, 67, 6, 1, 1, 'dashed bar'),
-(561, 67, 7, 1, 1, 'The PHYSICAL EVIDENCE supporting Quran as THE ONLY SOURCE OF RELIGIOUS GUIDANCE is interlocking with the mathematical miracle of Quran; it is also based on the number [19]. Such evidence is presented on pages 64-72.'),
-(562, 67, 8, 1, 1, 'dashed bar'),
-(563, 67, 9, 1, 1, 'Since the evidence is purely PHYSICAL, rather than interpretative, all freethinking people will accept it. Only those hopelessly trapped in false convictions will fail to see the clear truth, due to the curse of rejecting Quran (see 17:45).'),
-(564, 67, 10, 1, 1, 'dashed bar'),
-(565, 67, 11, 1, 1, 'The following four pages summarizing the miracle of Quran are reprinted from the book: &ldquo;QURAN: VISUAL PRESENTATION OF THE MIRACLE.&rdquo;'),
-(566, 68, 1, 1, 1, '- 60 -'),
-(567, 68, 2, 1, 1, 'QURAN: VISUAL PRESENTATION OF THE MIRACLE'),
-(568, 68, 3, 1, 1, 'by'),
-(569, 68, 4, 1, 1, 'Rashad Khalifa, Ph.D.'),
-(570, 68, 5, 1, 1, 'Imam, Mosque of Tucson, Arizona'),
-(571, 68, 6, 1, 1, 'SUMMARY '),
-(572, 68, 7, 1, 1, 'The miracle of Quran detailed in this book ranges from extreme simplicity to extreme intricacy. Because Quran was sent down for ALL people, its language ranges from the very simple, to the highest levels of linguistic and literary excellence. This renders the message attainable by everyone, regardless of the level of education. The same is true with the Quran&rsquo;s miracle. Thus, the physical facts that make up this extraordinary phenomenon can be divided into SIMPLE FACTS and INTRICATE FACTS.'),
-(573, 68, 8, 1, 1, 'THE SIMPLE FACTS'),
-(574, 68, 9, 1, 1, '(1) The opening statement of Quran consists of 19 letters.'),
-(575, 68, 10, 1, 1, '(2) Quran consists of 114 chapters, or 6 x 19.'),
-(576, 68, 11, 1, 1, '(3) The first Quranic revelation (96:15) was 19 words.'),
-(577, 68, 12, 1, 1, '(4) The first revelation consisted of 76 letters, or 19 x 4.'),
-(578, 68, 13, 1, 1, '(5) First chapter revealed (Ch. 96) consists of 19 verses.'),
-(579, 68, 14, 1, 1, '(6) From the end of Quran, Ch. 96 is in position 19.'),
-(580, 68, 15, 1, 1, '(7) First chapter revealed consists of 304 letters; 19 x 16.'),
-(581, 68, 16, 1, 1, '(8) Last chapter revealed (Ch. 110) consists of 19 words.'),
-(582, 68, 17, 1, 1, '(9) First verse of last revelation consists of 19 letters.'),
-(583, 68, 18, 1, 1, '(10) Second revelation (68:19) was 38 words; 19 x 2.'),
-(584, 68, 19, 1, 1, '(11) Third revelation (73:110) was 57 words; 19 x 3.'),
-(585, 68, 20, 1, 1, '(12) Fourth revelation (74:130) brought the No. 19 itself.'),
-(586, 68, 21, 1, 1, '(13) Fifth revelation (Ch. 1) placed the 19lettered opening statement immediately after the No. 19 of 74:30.'),
-(587, 69, 1, 1, 1, '- 61 -'),
-(588, 69, 2, 1, 1, 'SUMMARY '),
-(589, 69, 3, 1, 1, '(14) First word in the opening statement occurs in Quran exactly 19 times.'),
-(590, 69, 4, 1, 1, '(15) Second word in the opening statement (Allah) occurs 2,698 times, a multiple of 19 (19 x 142).'),
-(591, 69, 5, 1, 1, '(16) Third word in the opening statement (Rahman) is mentioned in Quran 57 times (19 x 3).'),
-(592, 69, 6, 1, 1, '(17) Fourth word in the opening statement (Rahim) is mentioned in Quran 114 times (19 x 6).'),
-(593, 69, 7, 1, 1, '(18) Multiplication factors of the opening statement (see points 1417 above) [1 142 3 6] add up to a total of 152, which is also a multiple of 19 (19 x 8).'),
-(594, 69, 8, 1, 1, '(19) Each frequency of occurrence connected with the opening statement, i.e., 19, 2698, 57, '),
-(595, 69, 9, 1, 1, '(20) All compiled lists of the known names of God (more than 400) were found to include ONLY FOUR names with numerical values divisible by 19. These four names are the same four which correspond to the frequencies of occurrence mentioned in point 19 above.'),
-(596, 69, 10, 1, 1, '(21) Opening statement is missing from Chapter 9, but compensated in Chapter 27, verse 30. This restores the frequency of this crucial statement to 114 (19 x 6).'),
-(597, 69, 11, 1, 1, '(22) Between the missing statement (Chapter 9) and the extra statement (Chapter 27) there are 19 chapters.'),
-(598, 69, 12, 1, 1, 'THE INTRICATE FACTS'),
-(599, 69, 13, 1, 1, '(23) Chapter 50 is entitled &ldquo;Q,&rdquo; initialed with the letter &ldquo;Q,&rdquo; and contains 57 Q&rsquo;s (57=19x3).'),
-(600, 69, 14, 1, 1, '(24) The only other chapter initialed with &ldquo;Q,&rdquo; namely, Chapter 42, also contains 57 Q&rsquo;s (19 x 3).'),
-(601, 69, 15, 1, 1, '(25) The letter &ldquo;Q&rdquo; stands for &ldquo;Quran,&rdquo; and the total occurrence of &ldquo;Q&rdquo; in the two Qinitialed chapters equals the number of chapters in Quran (57 57=114).'),
-(602, 69, 16, 1, 1, '5'),
-(603, 70, 1, 1, 1, '- 62 -'),
-(604, 70, 2, 1, 1, 'Summary '),
-(605, 70, 3, 1, 1, '(26) First verse in Chapter 50 (entitled &ldquo;Q&rdquo;) describes Quran as &ldquo;Majeed = Glorious,&rdquo; and the numerical value of the word &ldquo;Majeed&rdquo; is 57, exactly the same as the number of Q&rsquo;s in this chapter.'),
-(606, 70, 4, 1, 1, '(27) Chapter 68 is initialed with the letter &ldquo;N&rdquo; and contains 133 N&rsquo;s; or 19 x 7.'),
-(607, 70, 5, 1, 1, '(28) Chapters 7, 19, '),
-(608, 70, 6, 1, 1, '(29) Chapter 36 is initialed with the letters &ldquo;Y&rdquo; '),
-(609, 70, 7, 1, 1, '(30) Chapters 40 through 46 are initialed with &ldquo;H&rdquo; and &ldquo;M.&rdquo; The total frequency of these two letters in the seven chapters is 2147, or 19 x 113.'),
-(610, 70, 8, 1, 1, '(31) Chapter 42 is prefixed with the three initials &ldquo;&rsquo;A,&rdquo; &ldquo;S,&rdquo; '),
-(611, 70, 9, 1, 1, '(32) Chapter 19 is initialed with five letters, namely &ldquo;K,&rdquo; &ldquo;H,&rdquo; &ldquo;Y,&rdquo; &ldquo;&rsquo;A,&rdquo; and &ldquo;S,&rdquo; and the total frequency of occurrence of these five letters in this chapter is 798, or 19 x 42.'),
-(612, 70, 10, 1, 1, '(33) The Quranic initials &ldquo;H,&rdquo; &ldquo;T.H.,&rdquo; &ldquo;T.S.&rdquo; and &ldquo;T.S.M.&rdquo; constitute a unique interlocking relationship within their five chapters, namely, 19, 20, 26, 27, '),
-(613, 70, 11, 1, 1, '(34) Chapter 2 is initialed with the letters &ldquo;A.L.M.&rdquo; and contains 9899 of these letters (19 x 521).'),
-(614, 70, 12, 1, 1, '(35) Chapter 3 is also initialed with the letters &ldquo;A.L.M.&rdquo; and contains 5662 of these letters (19 x 298).'),
-(615, 70, 13, 1, 1, '(36) Chapters 29, 30, 31, '),
-(616, 70, 14, 1, 1, '(37) Chapters 10 and 11 are initialed with the letters &ldquo;A.L.R.,&rdquo; and contain exactly the same total frequency of occurrence, namely, 2489 each (19x131).'),
-(617, 70, 15, 1, 1, '(38) Chapters 12, 14, and 15 are also initialed with the three letters &ldquo;A.L.R.&rdquo; The total frequency of occurrence of these letters in these chapters is 2375 (19 x 125), 1197 (19 x 63), and 912 (19 x 48), respectively.'),
-(618, 71, 1, 1, 1, '- 63 -'),
-(619, 71, 2, 1, 1, 'Summary '),
-(620, 71, 3, 1, 1, '(39) Chapter 13 is prefixed with the four initials &ldquo;A.L.M.R.&rdquo; and contains a total of 1482 of these letters (19 x 78).'),
-(621, 71, 4, 1, 1, '(40) Chapter 7 is initialed with the four letters &ldquo;A.L.M.S.&rdquo; and the frequency of occurrence of these four letters in this chapter is 5320, or 19 x 280.'),
-(622, 71, 5, 1, 1, '(41) The number of Quranic initials is 14, and the alphabet letters which participate in making these initials are also 14, and the number of initialed chapters is 29. When we add these numbers, 14 14 29, we find the total 57, or 19 x 3.'),
-(623, 71, 6, 1, 1, '(42) The Quranic initials are described as &ldquo;Miracle of the Quran&rdquo; (see Page 240 [of the book &ldquo;Quran: Visual Presentation of the Miracle&rdquo;]).'),
-(624, 71, 7, 1, 1, '(43) The common denominator throughout Quran is the number [19], and this is the numerical value of the Arabic word &ldquo;ONE=Waahid.&rdquo; Thus, this miracle emphasizes the theme of Quran and its basic message: &ldquo;GOD IS ONE.&rdquo;'),
-(625, 71, 8, 1, 1, 'CONCLUSION:'),
-(626, 71, 9, 1, 1, 'The physical evidence presented here proves: (1) The divine source of Quran. (2) The perfect integrity and preservation of Quran.'),
-(627, 72, 1, 1, 1, '- 64 -'),
-(628, 72, 2, 1, 1, 'QURAN: ONLY SOURCE OF GUIDANCE (6:19)'),
-(629, 72, 3, 1, 1, 'Accepting any other sources of guidance constitutes the setting up of other gods beside God; IDOLWORSHIP.'),
-(630, 72, 4, 1, 1, 'dashed bar'),
-(631, 72, 5, 1, 1, 'THIS IMPORTANT STATEMENT HAPPENS TO BE No. 19 :'),
-(632, 72, 6, 1, 1, 'arbi'),
-(633, 72, 7, 1, 1, '&ldquo;Say (O Muhammad), &lsquo;Whose testimony is greater?&rsquo; Say, &lsquo;God is my witness that THIS QURAN was given to me to preach it to you, and whomever it reaches.&rsquo; Yet, you bear witness that there are other gods beside God (by upholding other sources beside Quran). Say, &lsquo;I do not bear such witness.&rsquo; Say, &lsquo;There is only ONE GOD, and I disown your idolworship.&rsquo;&rdquo; (6:19)'),
-(634, 72, 8, 1, 1, 'dashed bar'),
-(635, 72, 9, 1, 1, 'This crucial verse happens to be No. 19'),
-(636, 73, 1, 1, 1, '- 65 -'),
-(637, 73, 2, 1, 1, 'WE LEFT NOTHING OUT OF THIS BOOK (QURAN) (6:38)'),
-(638, 73, 3, 1, 1, '* The Arabic text of this verse consists of 19 letters.'),
-(639, 73, 4, 1, 1, '* The number of this verse is 38; or 19 x 2.'),
-(640, 73, 5, 1, 1, 'arabic letterssssss'),
-(641, 73, 6, 1, 1, 'arabic verse'),
-(642, 74, 1, 1, 1, '- 66 -'),
-(643, 74, 2, 1, 1, 'GOD REVEALED THIS BOOK FULLY DETAILED (6:114)'),
-(644, 74, 3, 1, 1, '* The Arabic text of this verse consists of 19 letters.'),
-(645, 74, 4, 1, 1, '* The number of this verse is 114; or 19 x 6.'),
-(646, 74, 5, 1, 1, '[ The Arabic letters of this statement are shown, each with a consecutive number under it to demonstrate that it is indeed 19 Arabic letters.]'),
-(647, 74, 6, 1, 1, '[The line containing this phrase is shown in Arabic.]'),
-(648, 75, 1, 1, 1, '- 67 -'),
-(649, 75, 2, 1, 1, 'THE WORD OF YOUR LORD (THIS QURAN) IS\n\nCOMPLETE, IN TRUTH AND JUSTICE (6:115).'),
-(650, 75, 3, 1, 1, 'This statement consists of 19 letters in the Arabic text.'),
-(651, 75, 4, 1, 1, '[ The Arabic letters of this statement are shown, each with a consecutive number under it to demonstrate that it is indeed 19 Arabic letters.]'),
-(652, 75, 5, 1, 1, '[This phrase is shown in Arabic.]'),
-(653, 76, 1, 1, 1, '- 68 -'),
-(654, 76, 2, 1, 1, 'MUHAMMAD FORBIDDEN FROM ANTICIPATING QURAN');
-INSERT INTO `qhi_en` (`id`, `pageId`, `lineNumber`, `boxId`, `barId`, `content_html`) VALUES
-(655, 76, 3, 1, 1, 'The Prophet Muhammad received an order from God enjoining him from uttering Quranic material without authorization, and ordering him to adhere strictly to Quran and follow it, once it is revealed.'),
-(656, 76, 4, 1, 1, 'This verse is No. 114, in Chapter 20.'),
-(657, 76, 5, 1, 1, '114 = 19 x 6'),
-(658, 76, 6, 1, 1, '[The verse is shown in Arabic with the verse number highlighted.]'),
-(659, 76, 7, 1, 1, 'solid bar'),
-(660, 76, 8, 1, 1, 'Could it be coincidental that the number of this verse is the same as the total number of suras in Quran?'),
-(661, 76, 9, 1, 1, 'God and His messenger want us to uphold Quran, the whole Quran, and nothing but Quran.'),
-(662, 77, 1, 1, 1, '- 69 -'),
-(663, 77, 2, 1, 1, 'MUHAMMAD FORBIDDEN FROM EXPLAINING QURAN'),
-(664, 77, 3, 1, 1, 'There are those who claim that Quran is too difficult to understand, and that &ldquo;Hadith '),
-(665, 77, 4, 1, 1, 'arbi'),
-(666, 77, 5, 1, 1, '&ldquo;Do not move your tongue (O Muhammad) to hasten the revelation of Quran. It is we who will put it together as a Quran. Once we reveal it, YOU SHALL FOLLOW IT. Then, it is we who will explain it.&rdquo; (75:16-19)'),
-(667, 77, 6, 1, 1, 'dashed bar'),
-(668, 77, 7, 1, 1, 'The verse stating that God is the one who explains Quran happens to be verse No. 19.'),
-(669, 78, 1, 1, 1, '- 70 -'),
-(670, 78, 2, 1, 1, 'QURAN CONTAINS ALL THE EXAMPLES WE NEED'),
-(671, 78, 3, 1, 1, 'There are four scattered verses stating generally that Quran contains all the examples, allegories, or similitudes that we need. These verses are 17:89, 18:54, 30:58, '),
-(672, 78, 4, 1, 1, '89   54   58   27 = 228 = 19 x 12.'),
-(673, 78, 5, 1, 1, '[ The Arabic of the first three verses is then shown on this page. The verse number for each is highlighted. Since we cannot reproduce the Arabic, we have substituted the English translation taken from &rdquo; Quran: The Final Testament&rdquo;, translated by Rashad Khalifa, Universal Unity, 1992.]\n\n&rdquo;We have cited for the people in this Quran all kinds of examples, but most people insist upon disbelieving. (17:89)'),
-(674, 78, 6, 1, 1, '[ The Arabic of the first three verses is then shown on this page. The verse number for each is highlighted. Since we cannot reproduce the Arabic, we have substituted the English translation taken from &rdquo; Quran: The Final Testament&rdquo;, translated by Rashad Khalifa, Universal Unity, 1992.]\nWe have cited in this Quran every kind of example, but the human being is the most argumentative creature. (18:54)'),
-(675, 78, 7, 1, 1, '[ The Arabic of the first three verses is then shown on this page. The verse number for each is highlighted. Since we cannot reproduce the Arabic, we have substituted the English translation taken from &rdquo; Quran: The Final Testament&rdquo;, translated by Rashad Khalifa, Universal Unity, 1992.]\n&rdquo;Thus, we have cited for the people in this Quran all kinds of examples. Yet, no matter what kind of proof you present to the disbelievers, they say, &lsquo;You are falsifiers.&rsquo;&rdquo; (30:58)\n\n&rdquo;God thus seals the hearts of those who do not know.&rdquo; (30:59)'),
-(676, 78, 8, 1, 1, '(Continued on the next page)'),
-(677, 79, 1, 1, 1, '- 71 -'),
-(678, 79, 2, 1, 1, '(Continued from the previous page)'),
-(679, 79, 3, 1, 1, '[Again, the Arabic is shown, and we have substituted the English, as on the last page]\n\n&rdquo;We have cited for the people every kind of example in this Quran, that they may take heed.&rdquo; (39:27)\n\n&rdquo;An Arabic Quran, without any ambiguity, that they may be righteous.&rdquo; (39:28)\n\n&rdquo;God cites the example of a man who deals with disputing partners (Hadith), compared to a man who deals with only one consistent source (Quran). Are they the same? Praise be to God; most of them do not know.&rdquo; (39:29)\n\n&rdquo;You (Muhammad) will surely die, just like they will die. &rdquo; (39:30)\n\n&rdquo;On the Day of Resurrection, before your Lord, you people will feud with one another. &rdquo; (39:31)\n\n&rdquo;Who is more evil than one who attributes lies to God, while disbelieving in the truth that has come to him? Is Hell not a just requital for the disbelievers? &rdquo; (39:32)'),
-(680, 79, 4, 1, 1, 'The verse numbers of the four verses are 89, 54, 58, and 27.'),
-(681, 79, 5, 1, 1, '89   54   58   27 = 228'),
-(682, 79, 6, 1, 1, '228 = 19 x 12'),
-(683, 79, 7, 1, 1, 'The verses shown above further state that Muhammad is a human being who dies like the rest of us, and that we shall follow ONE SOURCE of law, rather than a number of contradicting sources. The ONE SOURCE is identified in verse 28 above as QURAN.'),
-(684, 80, 1, 1, 1, '- 72 -'),
-(685, 80, 2, 1, 1, 'HADITH: WHERE THEY FIND ANYTHING THEY WISH'),
-(686, 80, 3, 1, 1, 'Finally, here is a piece of PHYSICAL EVIDENCE informing us that the believers can be distinguished by the fact that they follow THE ONE CONSISTENT SOURCE (Quran), while the disbelievers follow &ldquo;a book wherein they find anything they want.&rdquo; It is well known that we can find anything we want in the books of &ldquo;Hadith.&rdquo;'),
-(687, 80, 4, 1, 1, 'The statement, in the form of a question to the disbelievers, says, &ldquo;DO YOU FOLLOW A BOOK WHEREIN YOU FIND ANYTHING YOU WANT?&rdquo;'),
-(688, 80, 5, 1, 1, 'This important statement happens to be No. 38'),
-(689, 80, 6, 1, 1, '38 = 19 x 2'),
-(690, 80, 7, 1, 1, 'arbi'),
-(691, 80, 8, 1, 1, '&ldquo;Shall we treat the Muslims like the criminals? What is wrong with your judgment? DO YOU FOLLOW A BOOK WHEREIN YOU FIND ANYTHING YOU WANT?&rdquo; (68:3538)'),
-(692, 81, 1, 1, 1, 'GOD CALLS QURAN: COMPLETE (6:115)'),
-(693, 81, 2, 1, 1, '- 73 -'),
-(694, 81, 3, 1, 1, 'GOD CALLS QURAN: FULLY DETAILED (6:114)'),
-(695, 81, 4, 1, 1, 'GOD CALLS QURAN: PERFECT (6:38)'),
-(696, 81, 5, 1, 1, 'THE PROPHET DELIVERS QURAN ALONE (69:40-47)'),
-(697, 81, 6, 1, 1, 'HADITH '),
-(698, 81, 7, 1, 1, 'YOU SHALL UPHOLD QURAN ALONE (6:19; 7:3; etc.)'),
-(699, 81, 8, 1, 1, 'GOD PROVIDED EVEN PHYSICAL EVIDENCE (see Pages 64-72)'),
-(700, 81, 9, 1, 1, 'Why then do they fail to see all this???!!!'),
-(701, 82, 1, 1, 1, '- 74 -'),
-(702, 82, 2, 1, 1, 'WHY DO THEY FAIL TO BELIEVE GOD?'),
-(703, 82, 3, 1, 1, 'Because their hearts inside are denying what they utter with their mouths. They confess belief due to social and educational circumstances, but their hearts inside are denying:'),
-(704, 82, 4, 1, 1, 'arbi'),
-(705, 82, 5, 1, 1, '&ldquo;Your god is ONE GOD. However, those who do not believe in the hereafter, their hearts are denying, and they are too arrogant.&rdquo; (16:22)'),
-(706, 82, 6, 1, 1, 'dashed bar'),
-(707, 82, 7, 1, 1, 'The consequence of this denying (one&rsquo;s deep convictions are denying) is total isolation from Quran:'),
-(708, 82, 8, 1, 1, 'arbi'),
-(709, 82, 9, 1, 1, '&ldquo;When you read Quran, we place between you and those who do not believe in the hereafter AN INVISIBLE BARRIER. And we place shields on their hearts to prevent them from understanding it, and deafness in their ears; and when you preach your Lord (ALONE) in the QURAN ALONE they run away in aversion.&rdquo; (17:4546)'),
-(710, 82, 10, 1, 1, 'solid bar'),
-(711, 82, 11, 1, 1, 'Therefore, they cannot accept QURAN ALONE; they look for other sources such as &ldquo;Hadith '),
-(712, 83, 1, 1, 1, '- 75 -'),
-(713, 83, 2, 1, 1, 'GUARANTEED VICTORY'),
-(714, 83, 3, 1, 1, 'The Quran teaches, unequivocally, that victory is G U A R A N T E E D for the Muslims:'),
-(715, 83, 4, 1, 1, 'arbi'),
-(716, 83, 5, 1, 1, 'arbi'),
-(717, 83, 6, 1, 1, '&ldquo;We have decreed that the believers will be victorious.&rdquo; (30:47)'),
-(718, 83, 7, 1, 1, '&ldquo;We will positively grant victory to our messengers, and to those who believe, both in this live and on the day of resurrection.&rdquo; (40:51)'),
-(719, 83, 8, 1, 1, 'arbi'),
-(720, 83, 9, 1, 1, '&ldquo;God will support with victory those who support Him. God is powerful, Almighty.&rdquo; (22:40)'),
-(721, 83, 10, 1, 1, 'arbi'),
-(722, 83, 11, 1, 1, '&ldquo;God will surely defend those who believe. God does not like any betrayer, disbeliever.&rdquo; (22:38)'),
-(723, 83, 12, 1, 1, 'arbi'),
-(724, 83, 13, 1, 1, '&ldquo;O you who believe, if you support God, He will grant you victory, and strengthen your foothold.&rdquo; (47:7)'),
-(725, 84, 1, 1, 1, '- 76 -'),
-(726, 84, 2, 1, 1, 'WHY THEN ARE THE MUSLIMS DEFEATED ?'),
-(727, 84, 3, 1, 1, 'In view of the guarantees shown on the previous page, and since God is never wrong, the &ldquo;Muslims&rdquo; of today could not possibly be Muslims.'),
-(728, 84, 4, 1, 1, 'dashed bar'),
-(729, 84, 5, 1, 1, 'HISTORICAL FACTS'),
-(730, 84, 6, 1, 1, 'For as long as the Muslim Ummah upheld Quran, and nothing but Quran, the Muslims led the world scientifically, technologically, culturally, socially, militarily, and economically. They never lost a single battle. The borders of Islam extended from West Africa to China; into Southern France and Eastern Germany.'),
-(731, 84, 7, 1, 1, 'dotted bar'),
-(732, 84, 8, 1, 1, 'With the appearance of Hadith '),
-(733, 84, 9, 1, 1, 'dotted bar'),
-(734, 84, 10, 1, 1, 'Why do 3 million Israelis consistently defeat 150 million Arabs???'),
-(735, 84, 11, 1, 1, 'dotted bar'),
-(736, 84, 12, 1, 1, 'Does it make any sense that 3 million Israelis should force 1,000 million &ldquo;Muslims&rdquo; out of their Mosque in Jerusalem?'),
-(737, 84, 13, 1, 1, 'dotted bar'),
-(738, 84, 14, 1, 1, 'Why does India consistently defeat Pakistan? Why do the Russians invade Afghanistan? etc...etc...etc.'),
-(739, 84, 15, 1, 1, 'solid'),
-(740, 85, 1, 1, 1, '- 77 -'),
-(741, 85, 2, 1, 1, 'WHY THEN ARE THE &ldquo;MUSLIMS&rdquo; DEFEATED?'),
-(742, 85, 3, 1, 1, 'BECAUSE they refuse to believe God in His repeated statements that Quran is COMPLETE, PERFECT, FULLY DETAILED, and SHALL BE THE ONLY SOURCE OF RELIGIOUS GUIDANCE.'),
-(743, 85, 4, 1, 1, 'dashed'),
-(744, 85, 5, 1, 1, 'Because they have accepted other sources, namely, Hadith and Sunna, beside Quran.'),
-(745, 85, 6, 1, 1, 'arbi'),
-(746, 85, 7, 1, 1, '&ldquo;Whoever disregards My message (Quran) shall have a miserable life, then we will resurrect him, on the Day of Resurrection, blind. He will say, &lsquo;My Lord, why did You resurrect me blind, when I used to be a seer (in the first life)?&rsquo; (God will say), &lsquo;This is because Our revelations came to you, but your forgot them, and consequently, today we forget you.&rsquo; We thus punish those who exceed the limits and refuse to believe the verses of their Lord. And surely, the retribution in the Hereafter is far worse, and everlasting.&rdquo; (20:124127)'),
-(747, 85, 8, 1, 1, 'dasher ba'),
-(748, 86, 1, 1, 1, '- 78 -'),
-(749, 86, 2, 1, 1, 'HADITH CAUSED DEVIATION FROM QURAN!'),
-(750, 86, 3, 1, 1, '(1) IS THIS HOW YOU DO YOUR ABLUTION (WUDU)?'),
-(751, 86, 4, 1, 1, 'Although God&rsquo;s orders are clear and simple in Quran about the observance of ablution, the &ldquo;Muslim&rdquo; masses follow another god beside God; they do not do the ablution as prescribed by God. The ultimate result: humiliation '),
-(752, 86, 5, 1, 1, 'arbi'),
-(753, 86, 6, 1, 1, '&ldquo;O you who believe, when you get up to perform the Salat prayers you shall wash your faces, your hands up to the elbows, wipe your heads, and wash your feet.&rdquo; (5:6)'),
-(754, 86, 7, 1, 1, 'dased bar'),
-(755, 86, 8, 1, 1, 'The &ldquo;Muslim&rdquo; masses today refuse to be satisfied with the commandments of God. They uphold commandments of men, such as the various &ldquo;imams&rdquo; and &ldquo;scholars.&rdquo; As a result, they have a prolonged ablution that depends on which &ldquo;sect&rdquo; they follow. All sects resulted from the various &ldquo;imams&rdquo; opinions as to how the Prophet is supposed to have done his ablution. Thus, they fell in Satan&rsquo;s trap, disobeyed their Creator, and incurred misery and defeat.'),
-(756, 87, 1, 1, 1, '- 79 -'),
-(757, 87, 2, 1, 1, 'HADITH CAUSED DEVIATION FROM QURAN!'),
-(758, 87, 3, 1, 1, '(2) IS THIS HOW YOU DO YOUR SALAT PRAYERS?'),
-(759, 87, 4, 1, 1, 'arbi'),
-(760, 87, 5, 1, 1, '&ldquo;When you observe your Salat prayers, your voice shall not be too loud, nor too low; you shall maintain an intermediate tone.&rdquo; (17:110)'),
-(761, 87, 6, 1, 1, 'dased bar'),
-(762, 87, 7, 1, 1, 'Despite these straightforward instructions from God, the &ldquo;Muslim&rdquo; masses were diverted by Hadith; they maintain total silence during the noon prayer, the afternoon prayer, the third unit of the sunset prayer, and the second half of the night prayer. WHERE DID THEY GET THESE INSTRUCTIONS? From another god beside God; from other sources beside Quran.'),
-(763, 87, 8, 1, 1, 'dashed'),
-(764, 87, 9, 1, 1, 'Thus, they fell en masse in Satan&rsquo;s traps, and disobeyed their Creator, whose word (Quran) is complete, perfect, and fully detailed (6:19, 38, '),
-(765, 87, 10, 1, 1, 'solid'),
-(766, 88, 1, 1, 1, '- 80 -'),
-(767, 88, 2, 1, 1, 'HADITH CAUSED DEVIATION FROM QURAN'),
-(768, 88, 3, 1, 1, '(3) Do you mention other names beside God&rsquo;s in Salat?'),
-(769, 88, 4, 1, 1, 'It is God&rsquo;s commandment that we shall not mention any names in our Salat prayers, beside the name of God (72:18).'),
-(770, 88, 5, 1, 1, 'dashed bar'),
-(771, 88, 6, 1, 1, 'But the Muslim masses today follow the innovations that dictate upon them the praising and glorifying of Muhammad and Abraham, while praying to their Lord.'),
-(772, 88, 7, 1, 1, 'arbi'),
-(773, 88, 8, 1, 1, '&ldquo;The mosques belong to God; therefore, do not mention any other names beside the name of God.&rdquo; (72:18)'),
-(774, 88, 9, 1, 1, 'daseed'),
-(775, 88, 10, 1, 1, 'WHAT IS MORE CLEAR THAN THAT?'),
-(776, 88, 11, 1, 1, 'dash'),
-(777, 88, 12, 1, 1, 'The &ldquo;Muslims&rdquo; have been duped by Satan into uttering the innovation known as &ldquo;Tashahhud&rdquo; where they shower praises and glorifications on Muhammad and Abraham.'),
-(778, 88, 13, 1, 1, 'dashed'),
-(779, 88, 14, 1, 1, 'It should be noted that even the sources of Hadith '),
-(780, 88, 15, 1, 1, 'dashd'),
-(781, 88, 16, 1, 1, 'IS THIS NOT FLAGRANT IDOLWORSHIP???'),
-(782, 89, 1, 1, 1, '- 81 -'),
-(783, 89, 2, 1, 1, 'HADITH '),
-(784, 89, 3, 1, 1, 'After stating that the law against adultery is &ldquo;perfectly clear,&rdquo; the Quranic commandment orders us to punish the adulterers by whipping them one hundred lashes.'),
-(785, 89, 4, 1, 1, 'Did the Muslims follow and obey their Creator? NO.'),
-(786, 89, 5, 1, 1, 'The Muslim &ldquo;scholars&rdquo; declared that the Quranic law is not clear !!! They claimed that the adulterers are not defined in Quran with regard to their marital status, and that they need Hadith to clarify Quran !!!'),
-(787, 89, 6, 1, 1, 'arbi'),
-(788, 89, 7, 1, 1, '&ldquo;This Sura we send down, and decree as law, and send down in it verses that are perfectly clear, that you may take heed. The adulteress and adulterer, you shall whip each of them a hundred lashes, and do not be deterred by kindness from carrying out God&rsquo;s law, if you truly believe in God and the Last Day. Let a group of believers witness their punishment.&rdquo; (24:12)'),
-(789, 89, 8, 1, 1, 'dashed'),
-(790, 89, 9, 1, 1, 'Overcome by tradition, and Satan&rsquo;s influence, the &ldquo;Muslim&rdquo; scholars instituted &ldquo;stoning to death&rdquo; as the punishment for married adulterers !!!'),
-(791, 90, 1, 1, 1, '- 82 -'),
-(792, 90, 2, 1, 1, 'OBEY GOD AND OBEY THE MESSENGER'),
-(793, 90, 3, 1, 1, 'Satan succeeded in duping millions of Muslims into believing that obeying God means obeying the Quran, while obeying the messenger means obeying Hadith.'),
-(794, 90, 4, 1, 1, 'What helped in popularizing this Satanic trick was the general ignorance of Quran among the Muslim masses, and their failure to heed the divine commandments that Quran shall be the ONLY SOURCE of jurisprudence and/or religious guidance.'),
-(795, 90, 5, 1, 1, 'dashed'),
-(796, 90, 6, 1, 1, 'Only a little thinking leads us to realize that Quran came to us through Muhammad&rsquo;s mouth, and DID NOT COME TO US FROM GOD DIRECTLY. Hence the commandment that we shall obey the messenger...for he utters the words of God.'),
-(797, 90, 7, 1, 1, 'dashed'),
-(798, 90, 8, 1, 1, 'All previous scriptures have stated the same Quranic truth that: &ldquo;Whoever obeys the messenger is obeying God.&rdquo; Since the messenger obviously is not God, the commandment clearly means obeying the words of God uttered by the messenger.'),
-(799, 90, 9, 1, 1, 'The knowledgeable and fortunate believers, therefore, realize that Hadith '),
-(800, 91, 1, 1, 1, '- 83 -'),
-(801, 91, 2, 1, 1, 'MUHAMMAD&rsquo;S HADITHS ARE NOT MUHAMMAD&rsquo;S'),
-(802, 91, 3, 1, 1, 'Instead, they are the Hadiths (narrations) of men and women who never saw the Prophet; in fact, the grandparents of their grandparents never saw the Prophet.'),
-(803, 91, 4, 1, 1, 'dashed'),
-(804, 91, 5, 1, 1, 'It is well known that the first book of Hadith is that of Bukhary, who was born more than 200 years after the death of Muhammad. When Bukhary wrote his book of Hadiths, he used to visit the people whom he knew as sources. After verifying that his source is &ldquo;truthful,&rdquo; and known as a man or woman of righteousness, Bukhary would ask, &ldquo;Do you know a Hadith?&rdquo; The person would answer, &ldquo;Yes,&rdquo; then proceed to narrate the &ldquo;Hadith&rdquo; as follows: &ldquo;I heard my father, may God bless his soul, say that he heard his older brother, may God bless his soul, say that he was sitting with his grandmother, may God bless her soul, and she told him that she was having dinner one day with her great uncle, may God bless his soul, when he stated that his maternal grandfather knew Imam Ahmad ibn Muhammad alAmawy, who mentioned that his grandfather heard from his oldest uncle that he met the great companion of the Prophet Omar ibn Khaled AlYamany, and he told him that the Prophet, peace be upon him, said, &lsquo;......&rsquo;&rdquo;'),
-(805, 91, 6, 1, 1, 'dashed'),
-(806, 91, 7, 1, 1, 'Thus, the Hadith is simply a narration by Bukhary&rsquo;s source, claiming that he or she heard something about the Prophet across eight generations of the dead.'),
-(807, 91, 8, 1, 1, 'dashed'),
-(808, 91, 9, 1, 1, 'On the other hand, we now possess irrefutable physical evidence that Quran is the infallible word of God, and that it was uttered by the Prophet Muhammad. Therefore, we obey the messenger by obeying Quran; nothing but Quran.'),
-(809, 91, 10, 1, 1, 'dashed'),
-(810, 92, 1, 1, 1, '- 84 -'),
-(811, 92, 2, 1, 1, 'Instead, it is obedience to the men and women who narrated the &ldquo;Hadiths.&rdquo;'),
-(812, 92, 3, 1, 1, 'dashed'),
-(813, 92, 4, 1, 1, 'Obeying the socalled &ldquo;Hadith of the Prophet,&rdquo; is in fact obeying a group of simpleminded people who thought that the Prophet had said something more than 200 years before they were born.'),
-(814, 92, 5, 1, 1, 'dashed bar'),
-(815, 92, 6, 1, 1, 'Thus, if the narrator of a given Hadith is for example a Abbas ibn Yasser, then obeying the Hadith narrated by Abbas ibn Yasser is in fact obeying Abbas ibn Yasser, and has nothing to do with obeying the Prophet.'),
-(816, 92, 7, 1, 1, 'dashed bar'),
-(817, 92, 8, 1, 1, 'The true obedience of the Prophet Muhammad is only by obeying Quran, which was indeed uttered by Muhammad, and is supported by indisputable PHYSICAL EVIDENCE.'),
-(818, 92, 9, 1, 1, 'dotted bar'),
-(819, 92, 10, 1, 1, 'These facts explain the Quran&rsquo;s repeated statements that &ldquo;Only those with intelligence take heed.&rdquo;'),
-(820, 92, 11, 1, 1, 'dotted bar'),
-(821, 92, 12, 1, 1, 'The Quran was delivered to us through Muhammad&rsquo;s mouth, without any mediators or narrators. The Quran came through Muhammad&rsquo;s mouth, directly to the ears of the revelation writers who scrupulously wrote it down the moment it was uttered.'),
-(822, 92, 13, 1, 1, 'dotted bar'),
-(823, 92, 14, 1, 1, 'Thus, Quran is the only true Hadith of Muhammad. Furthermore, the Almighty has guaranteed the eternal preservation of His words, as uttered by Muhammad (15:9).'),
-(824, 93, 1, 1, 1, '- 85 -'),
-(825, 93, 2, 1, 1, 'THE GREAT DISASTER'),
-(826, 93, 3, 1, 1, 'arbi'),
-(827, 93, 4, 1, 1, '&ldquo;(On the day of judgment) the disbelievers will be told, &lsquo;God&rsquo;s abhorrence towards you is far worse than your own abhorrence towards yourselves, for you were invited to the faith but refused.&rsquo; They will say, &lsquo;Our Lord, You gave us two deaths and two lives, and now we confess our sins; IS THERE ANYWAY OUT?&rsquo; That is because when GOD ALONE was advocated, you refused to believe. But when idols were advocated along with Him, you believed. Therefore, judgment now belongs with God, the most high, the great.&rdquo; (40:10-12)'),
-(828, 93, 5, 1, 1, 'dashed bar'),
-(829, 93, 6, 1, 1, 'When GOD ALONE is advocated, do you believe? OR Do you have to have others advocated along with Him?'),
-(830, 93, 7, 1, 1, 'dashed bar'),
-(831, 94, 1, 1, 1, '- 86 -'),
-(832, 94, 2, 1, 1, 'THE GREAT DISASTER'),
-(833, 94, 3, 1, 1, 'arbi'),
-(834, 94, 4, 1, 1, '&ldquo;When their messengers went to them with clear evidence, they were satisfied with the knowledge they already had, and the very thing they ridiculed caused their doom. Then, when they saw our retribution, they said, &lsquo;NOW WE BELIEVE IN GOD ALONE AND WE REJECT OUR PREVIOUS IDOLATRY.&rsquo; But alas, their belief is useless to them after they see the retribution. Such is God&rsquo;s law which is never changeable; such disbelievers are doomed.&rdquo; (40:83-5)'),
-(835, 94, 5, 1, 1, 'dashed bar'),
-(836, 94, 6, 1, 1, 'Are you happy and satisfied with the knowledge you inherited from your parents, elders or scholars? (Hadith '),
-(837, 94, 7, 1, 1, 'dashed bar'),
-(838, 94, 8, 1, 1, 'Are you willing to give up such knowledge, in favor of God&rsquo;s teachings? OR, will it be too late for you?'),
-(839, 94, 9, 1, 1, 'dashed bar'),
-(840, 95, 1, 1, 1, '- 87 -'),
-(841, 95, 2, 1, 1, 'THE GREAT CRITERION'),
-(842, 95, 3, 1, 1, 'arbi'),
-(843, 95, 4, 1, 1, '&ldquo;When God ALONE is advocated, the hearts of those who do not believe in the hereafter shrink with aversion. But when idols are mentioned besides Him, they rejoice &ldquo;(39:45).'),
-(844, 96, 1, 1, 1, '- 88 -'),
-(845, 96, 2, 1, 1, 'CLARIFICATION:\n\nWHY ARE WE HERE?'),
-(846, 96, 3, 1, 1, 'The whole matter of Quran vs Hadith '),
-(847, 96, 4, 1, 1, 'We exist in this world for one, and only one, purpose. As stated in Quran (67:12 '),
-(848, 96, 5, 1, 1, 'Satan wanted to be a partner with God; a god beside God. Consequently, God created Adam to expose Satan&rsquo;s rebellious ideas. And God created us to show Satan, and all the angels that we can worship Him ALONE, without need for any partners.'),
-(849, 96, 6, 1, 1, 'dashed bar'),
-(850, 96, 7, 1, 1, 'The purpose of our existence, therefore, is to worship GOD ALONE. This is why the only unforgivable offense is idolworship. That is because once we idolize anyone, or anything, beside God, we fail the test.'),
-(851, 96, 8, 1, 1, 'dashed bar'),
-(852, 96, 9, 1, 1, 'We fulfill the purpose of our existence only if we succeed in worshiping GOD ALONE, without idolizing Muhammad, or Jesus, or Mary, or any saint, or any imam, or anyone, or anything.'),
-(853, 96, 10, 1, 1, 'solid bar'),
-(854, 96, 11, 1, 1, 'When we seek &ldquo;religious&rdquo; instructions from Muhammad, or any other source beside God, we support Satan in his claim that God needs a partner. Therefore, those who worship God ALONE follow the instructions and teachings of GOD ALONE. As shown throughout this book, God&rsquo;s teachings are complete, perfect, and fully detailed in Quran.'),
-(855, 96, 12, 1, 1, 'solid bar'),
-(856, 97, 1, 1, 1, '- 89 -'),
-(857, 97, 2, 1, 1, 'FINALLY: MOST IMPORTANT QUESTION'),
-(858, 97, 3, 1, 1, 'solid bar'),
-(859, 97, 4, 1, 1, 'In your mind, can God survive ALONE???'),
-(860, 97, 5, 1, 1, 'Or, does God need Muhammad, in your mind, in order to be commemorated and worshiped???'),
-(861, 97, 6, 1, 1, 'dotted bar'),
-(862, 97, 7, 1, 1, 'In your mind, can GOD ALONE survive?'),
-(863, 97, 8, 1, 1, 'dotted bar'),
-(864, 97, 9, 1, 1, 'Or, does God need a partner, in your mind, such as Muhammad, Jesus, Mary, or some saint(s)???'),
-(865, 97, 10, 1, 1, 'dotted bar'),
-(866, 97, 11, 1, 1, 'Would you be perfectly happy and content if you knew about GOD ALONE, without Muhammad, Jesus, Mary, or any saint, or anyone, or anything?'),
-(867, 97, 12, 1, 1, 'dotted bar'),
-(868, 97, 13, 1, 1, 'Are you annoyed by talking about GOD ALONE?'),
-(869, 97, 14, 1, 1, 'dotted bar'),
-(870, 97, 15, 1, 1, 'When I keep talking about GOD ALONE, does this annoy you? Do you have to hear other names along with God? Can GOD ALONE survive in your mind?'),
-(871, 97, 16, 1, 1, 'dotted bar'),
-(872, 97, 17, 1, 1, 'When I repeat, and repeat, my talk about GOD ALONE, do you feel any repulsion? Or, are you happy and content with the talk about GOD ALONE??? Based on the Great Quranic criterion, as stated in 39:45, your answers to these questions provide the key to knowing yourself, and your destiny.'),
-(873, 97, 18, 1, 1, 'dotted bar'),
-(874, 97, 19, 1, 1, 'Based on the Great Quranic criterion, as stated in 39:45, your answers to these questions provide the key to knowing yourself, and your destiny.'),
-(875, 97, 20, 1, 1, 'dotted bar'),
-(876, 98, 1, 1, 1, 'Witness A Miracle The Quran&rsquo;s miraculous numerical coe visibly superimposed over the Quran itself. Irrefutable Physical Evidence that Quran is Gods message to the world. Be a witness by reading:\nQuran:\nVISUAL PRESENTATION OF THE MIRACLE-\nby Rashad Khalifa, Ph.D.\n250 pages $10.00\nOrder from: ISLAMIC PRODUCTIONS 739 E. 6th St.\nTucson, AZ 85719'),
-(877, 99, 1, 1, 1, 'DOES IT MAKE SENSE? 3, 000, 000 Israelis consistently defeat 150, 000, 000 Arabs.\n3, 000, 000 Israelis deprive 1, 000, 000, 000 Muslims of their Mosque in Jerusalem.\nFIND OUT WHY\nYou will KNOW the real reason when you read\nby Rashad Khalifa, Ph.D.\nOrder from ISLAMIC PRODUCTIONS 739 E. 6th Street\nTucson, AZ 85719'),
-(878, 100, 1, 1, 1, 'space'),
-(879, 101, 1, 1, 1, 'space'),
-(880, 102, 1, 1, 1, 'space'),
-(881, 103, 1, 1, 1, 'space'),
-(882, 104, 1, 1, 1, 'Victory, health, wealth, peace of mind, and perfect happiness are absolutely guaranteed by God for those who follow His guidance (Quran 2:38; 3:160, 22:38, 40; 24:55; 30:47; '),
-(883, 104, 2, 1, 1, 'This book explains this apparent contradiction, and points out the sure way to absolute victory, health, wealth, peace of mind, and perfect happiness; for nations as well as individuals.');
+(510, 61, 8, 1, 1, '&lt;p&gt;&ldquo;The worst losers are those who go astray, then THINK that they are rightly guided.&rdquo; (18:103-104)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (511,62,1,1,1,'&lt;div class=\"page-number\"&gt;- 54 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (512,62,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;UNAWARE OF THEIR IDOL WORSHIP&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (513,62,3,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;The majority of &ldquo;believers&rdquo; fall into idolworship without realizing it; they are not aware that they are idolaters:&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (514,62,4,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (515,62,5,1,1,'&lt;p&gt;&ldquo;On the day (of judgment) when we gather all the people, we will ask the idolworshipers, &lsquo;Where are your idols whom you set up beside God?&rsquo; Then, their only answer will be, &lsquo;By God our Lord, we were not idolworshipers.&rsquo; Note how they lied even to themselves, and note that the idols they had set up will abandon them.&rdquo; (6:22-24)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (516,62,6,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (517,62,7,1,1,'&lt;p&gt;Thus, there are people who are idolworshipers, who are unaware of their idolatry. Could you be one of them? How do you know that you are not one of them? This is your only chance to ascertain that you are not an idolworshiper.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (518,62,8,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (519,62,9,1,1,'&lt;p&gt;HOW CAN YOU ASCERTAIN THAT YOUR ARE NOT AN IDOLWORSHIPER?  The answer on Page 55.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (520,62,10,1,1,'&lt;hr /&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (521,63,1,1,1,'&lt;div class=\"page-number\"&gt;- 55 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (522,63,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;THE IMPORTANCE OF &ldquo;HADITH &lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (523,63,3,1,1,'&lt;p&gt;Quran teaches that &ldquo;Hadith &lt;/p&gt; ');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (524,63,4,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (525,63,5,1,1,'&lt;p&gt;The true Muslim believes God in His statements that Quran is complete, perfect, and fully detailed (6:19, 38, &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (526,63,6,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (527,63,7,1,1,'&lt;p&gt;As for the false Muslim, he or she will become attracted to &ldquo;Hadith &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (528,63,8,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (529,63,9,1,1,'&lt;p&gt;&ldquo;We set up against every prophet enemies, human and jinn devils, who exhort each other to invent fancy statements in order to deceive. Had your Lord willed, they would not have done it. (But it is God&rsquo;s will) in order that the minds of those who do not believe in the hereafter may listen thereto, and to let them accept it, and to expose their true identity.&rdquo; (6:112-113)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (530,63,10,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (531,63,11,1,1,'&lt;p&gt;Are you satisfied with the Quran? Do you believe God? Or, do you feel that Quran is not complete; that you need additional sources of religious guidance?&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (532,64,1,1,1,'&lt;div class=\"page-number\"&gt;- 56 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (533,64,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;ONE AUTHENTIC &ldquo;HADITH&rdquo;&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (534,64,3,1,1,'&lt;p class=\"margin-top-15\" &gt;On the day of judgment, Muhammad will be the first to complain that his followers had abandoned Quran, in favor of the fabrications by his enemies (Hadith &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (535,64,4,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (536,64,5,1,1,'&lt;p&gt;&ldquo;And the messenger will say, &lsquo;My Lord, my people have deserted THIS QURAN.&rsquo; We thus set up against every prophet enemies who are wicked. YOUR LORD SUFFICES AS A GUIDE AND SUPPORTER (i.e., Quran is enough).&rdquo; (25:30-31)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (537,64,6,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (538,64,7,1,1,'&lt;p&gt;Note the word for word similarity between 25:31 shown above, and 6:112 shown on the previous page. Could this be coincidental?&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (539,64,8,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (540,64,9,1,1,'&lt;p&gt;Thus, the prophet Muhammad will be disappointed with those who love him excessively, just as Jesus will be disappointed with those Christians who considered him to be a god or son of God.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (541,64,10,1,1,'&lt;hr /&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (542,65,1,1,1,'&lt;div class=\"page-number\"&gt;- 57 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (543,65,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;QURAN: THE ONLY LEGITIMATE &ldquo;HADITH&rdquo;&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (544,65,3,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (545,65,4,1,1,'&lt;p&gt;&ldquo;These are God&rsquo;s verses; we recite them for you truthfully. In which &ldquo;Hadith&rdquo;, beside God and His verses, do they believe in? WOE TO EVERY SINFUL FABRICATOR. He hears God&rsquo;s verses, then insists arrogantly on his way, as if he never heard them; promise him painful retribution. When he learns anything from our verses, he takes it in vain; these have deserved humiliating retribution. Awaiting them is hell; neither their earnings, nor the idols they had set up beside God can help them; they have deserved terrible retribution. THIS IS THE GUIDANCE, and those who do not believe the verses of their Lord will suffer debasement, and painful retribution.&rdquo; (45:6-11)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (546,65,5,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (547,65,6,1,1,'&lt;p&gt;Do you believe God&rsquo;s verses? Do you believe that Quran is complete, perfect, and fully detailed (6:19, 38, &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (548,65,7,1,1,'&lt;hr /&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (549,66,1,1,1,'&lt;div class=\"page-number\"&gt;- 58 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (550,66,2,1,1,'&lt;div class=\"heading padding-5 solid\"&gt;Quran is the only &ldquo;Hadith&rdquo; to be followed; all other Hadiths are blasphemous and misleading fabrications:&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (551,66,3,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (552,66,4,1,1,'&lt;p&gt;&ldquo;God has revealed the best &lsquo;Hadith&rsquo;; a book that is consistent, and describes both ways (to heaven and Hell). The skins of those who reverence their Lord shudder therefrom, then their skins and hearts soften up and receive God&rsquo;s message. Such is God&rsquo;s guidance; He guides whomever He wills. As for those sent astray by Him, no one can guide them.&rdquo; (39:23)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (553,66,5,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (554,66,6,1,1,'&lt;p&gt;&ldquo;There are those who advocate vain &lsquo;Hadith&rsquo; causing diversion from the path of God, without knowledge, and fail to take such actions seriously; these have deserved humiliating retribution. And when our verses are recited to him, he turns away arrogantly, as if he never heard them; as if his ears are deaf; promise him painful retribution.&rdquo; (31:67)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (555,67,1,1,1,'&lt;div class=\"page-number\"&gt;-59 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (556,67,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;THE PHYSICAL EVIDENCE&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (557,67,3,1,1,'&lt;p class=\"indent margin-top-15\" &gt;In addition to the clear Quranic statements assuring the believers that Quran is complete; perfect, fully detailed, and shall be the ONLY source of religious guidance, it was the will of God Almighty to further support these revelations with irrefutable PHYSICAL EVIDENCE.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (558,67,4,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (559,67,5,1,1,'&lt;p&gt;A mathematical miracle was discovered in Quran, whereby every word, indeed every letter, was placed in Quran in accordance with an extremely intricate numerical code. The code is based on the number [19], which is the number of letters in the opening statement of Quran, and the number indicated in 74:30 as providing the answer to those who claim that Quran is manmade. This mathematical miracle proves beyond doubt that Quran is a divine scripture, and that it has been perfectly preserved. For details please see the book, &ldquo;QURAN: VISUAL PRESENTATION OF THE MIRACLE.&rdquo;&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (560,67,6,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (561,67,7,1,1,'&lt;p&gt;The PHYSICAL EVIDENCE supporting Quran as THE ONLY SOURCE OF RELIGIOUS GUIDANCE is interlocking with the mathematical miracle of Quran; it is also based on the number [19]. Such evidence is presented on pages 64-72.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (562,67,8,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (563,67,9,1,1,'&lt;p&gt;Since the evidence is purely PHYSICAL, rather than interpretative, all freethinking people will accept it. Only those hopelessly trapped in false convictions will fail to see the clear truth, due to the curse of rejecting Quran (see 17:45).&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (564,67,10,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (565,67,11,1,1,'The following four pages summarizing the miracle of Quran are reprinted from the book: &ldquo;QURAN: VISUAL PRESENTATION OF THE MIRACLE.&rdquo;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (566,68,1,1,1,'&lt;div class=\"page-number\"&gt;- 60 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (567,68,2,1,1,'&lt;div class=\"heading padding-10 solid bold\"&gt;QURAN: VISUAL PRESENTATION OF THE MIRACLE&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (568,68,3,1,1,'&lt;p class=\"center\"&gt;by&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (569,68,4,1,1,'&lt;p class=\"center\"&gt;&lt;br /&gt;Rashad Khalifa, Ph.D.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (570,68,5,1,1,'&lt;p class=\"center\"&gt;Imam, Mosque of Tucson, Arizona&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (571,68,6,1,1,'&lt;div class=\"margin-top-15 bold center padding-10\" &gt;SUMMARY &lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (572,68,7,1,1,'&lt;p class=\"indent margin-top-15\" &gt;The miracle of Quran detailed in this book ranges from extreme simplicity to extreme intricacy. Because Quran was sent down for ALL people, its language ranges from the very simple, to the highest levels of linguistic and literary excellence. This renders the message attainable by everyone, regardless of the level of education. The same is true with the Quran&rsquo;s miracle. Thus, the physical facts that make up this extraordinary phenomenon can be divided into SIMPLE FACTS and INTRICATE FACTS.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (573,68,8,1,1,'&lt;div class=\"margin-top-15 bold center padding-10\" &gt;THE SIMPLE FACTS&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (574,68,9,1,1,'&lt;p&gt;(1) The opening statement of Quran consists of 19 letters.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (575,68,10,1,1,'&lt;p&gt;(2) Quran consists of 114 chapters, or 6 x 19.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (576,68,11,1,1,'&lt;p&gt;(3) The first Quranic revelation (96:15) was 19 words.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (577,68,12,1,1,'&lt;p&gt;(4) The first revelation consisted of 76 letters, or 19 x 4.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (578,68,13,1,1,'&lt;p&gt;(5) First chapter revealed (Ch. 96) consists of 19 verses.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (579,68,14,1,1,'&lt;p&gt;(6) From the end of Quran, Ch. 96 is in position 19.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (580,68,15,1,1,'&lt;p&gt;(7) First chapter revealed consists of 304 letters; 19 x 16.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (581,68,16,1,1,'&lt;p&gt;(8) Last chapter revealed (Ch. 110) consists of 19 words.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (582,68,17,1,1,'&lt;p&gt;(9) First verse of last revelation consists of 19 letters.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (583,68,18,1,1,'&lt;p&gt;(10) Second revelation (68:19) was 38 words; 19 x 2.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (584,68,19,1,1,'&lt;p&gt;(11) Third revelation (73:110) was 57 words; 19 x 3.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (585,68,20,1,1,'&lt;p&gt;(12) Fourth revelation (74:130) brought the No. 19 itself.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (586,68,21,1,1,'&lt;p&gt;(13) Fifth revelation (Ch. 1) placed the 19lettered opening statement immediately after the No. 19 of 74:30.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (587,69,1,1,1,'&lt;div class=\"page-number\"&gt;- 61 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (588,69,2,1,1,'SUMMARY ');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (589,69,3,1,1,'&lt;div &gt;(14) First word in the opening statement occurs in Quran exactly 19 times.&lt;/div&gt;&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (590,69,4,1,1,'&lt;div&gt;(15) Second word in the opening statement (Allah) occurs 2,698 times, a multiple of 19 (19 x 142).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (591,69,5,1,1,'&lt;div&gt;(16) Third word in the opening statement (Rahman) is mentioned in Quran 57 times (19 x 3).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (592,69,6,1,1,'&lt;div &gt;(17) Fourth word in the opening statement (Rahim) is mentioned in Quran 114 times (19 x 6).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (593,69,7,1,1,'&lt;div&gt;(18) Multiplication factors of the opening statement (see points 1417 above) [1 142 3 6] add up to a total of 152, which is also a multiple of 19 (19 x 8).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (594,69,8,1,1,'&lt;div &gt;(19) Each frequency of occurrence connected with the opening statement, i.e., 19, 2698, 57, &lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (595,69,9,1,1,'&lt;div &gt;(20) All compiled lists of the known names of God (more than 400) were found to include ONLY FOUR names with numerical values divisible by 19. These four names are the same four which correspond to the frequencies of occurrence mentioned in point 19 above.&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (596,69,10,1,1,'&lt;div&gt;(21) Opening statement is missing from Chapter 9, but compensated in Chapter 27, verse 30. This restores the frequency of this crucial statement to 114 (19 x 6).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (597,69,11,1,1,'&lt;div&gt;(22) Between the missing statement (Chapter 9) and the extra statement (Chapter 27) there are 19 chapters.&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (598,69,12,1,1,'THE INTRICATE FACTS');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (599,69,13,1,1,'&lt;div&gt;(23) Chapter 50 is entitled &ldquo;Q,&rdquo; initialed with the letter &ldquo;Q,&rdquo; and contains 57 Q&rsquo;s (57=19x3).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (600,69,14,1,1,'&lt;div&gt;(24) The only other chapter initialed with &ldquo;Q,&rdquo; namely, Chapter 42, also contains 57 Q&rsquo;s (19 x 3).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (601,69,15,1,1,'&lt;div  &gt;(25) The letter &ldquo;Q&rdquo; stands for &ldquo;Quran,&rdquo; and the total occurrence of &ldquo;Q&rdquo; in the two Qinitialed chapters equals the number of chapters in Quran (57 57=114).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (602,69,16,1,1,'5');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (603,70,1,1,1,'&lt;div class=\"page-number\"&gt;- 62 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (604,70,2,1,1,'Summary ');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (605,70,3,1,1,'&lt;div &gt;(26) First verse in Chapter 50 (entitled &ldquo;Q&rdquo;) describes Quran as &ldquo;Majeed = Glorious,&rdquo; and the numerical value of the word &ldquo;Majeed&rdquo; is 57, exactly the same as the number of Q&rsquo;s in this chapter.&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (606,70,4,1,1,'&lt;div &gt;(27) Chapter 68 is initialed with the letter &ldquo;N&rdquo; and contains 133 N&rsquo;s; or 19 x 7.&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (607,70,5,1,1,'&lt;div &gt;(28) Chapters 7, 19, &lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (608,70,6,1,1,'&lt;div &gt;(29) Chapter 36 is initialed with the letters &ldquo;Y&rdquo; &lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (609,70,7,1,1,'&lt;div &gt;(30) Chapters 40 through 46 are initialed with &ldquo;H&rdquo; and &ldquo;M.&rdquo; The total frequency of these two letters in the seven chapters is 2147, or 19 x 113.&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (610,70,8,1,1,'&lt;div &gt;(31) Chapter 42 is prefixed with the three initials &ldquo;&rsquo;A,&rdquo; &ldquo;S,&rdquo; &lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (611,70,9,1,1,'&lt;div &gt;(32) Chapter 19 is initialed with five letters, namely &ldquo;K,&rdquo; &ldquo;H,&rdquo; &ldquo;Y,&rdquo; &ldquo;&rsquo;A,&rdquo; and &ldquo;S,&rdquo; and the total frequency of occurrence of these five letters in this chapter is 798, or 19 x 42.&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (612,70,10,1,1,'&lt;div &gt;(33) The Quranic initials &ldquo;H,&rdquo; &ldquo;T.H.,&rdquo; &ldquo;T.S.&rdquo; and &ldquo;T.S.M.&rdquo; constitute a unique interlocking relationship within their five chapters, namely, 19, 20, 26, 27, &lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (613,70,11,1,1,'&lt;div &gt;(34) Chapter 2 is initialed with the letters &ldquo;A.L.M.&rdquo; and contains 9899 of these letters (19 x 521).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (614,70,12,1,1,'&lt;div &gt;(35) Chapter 3 is also initialed with the letters &ldquo;A.L.M.&rdquo; and contains 5662 of these letters (19 x 298).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (615,70,13,1,1,'&lt;div &gt;(36) Chapters 29, 30, 31, &lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (616,70,14,1,1,'&lt;div &gt;(37) Chapters 10 and 11 are initialed with the letters &ldquo;A.L.R.,&rdquo; and contain exactly the same total frequency of occurrence, namely, 2489 each (19x131).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (617,70,15,1,1,'&lt;div &gt;(38) Chapters 12, 14, and 15 are also initialed with the three letters &ldquo;A.L.R.&rdquo; The total frequency of occurrence of these letters in these chapters is 2375 (19 x 125), 1197 (19 x 63), and 912 (19 x 48), respectively.&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (618,71,1,1,1,'&lt;div class=\"page-number\"&gt;- 63 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (619,71,2,1,1,'Summary ');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (620,71,3,1,1,'&lt;div &gt;(39) Chapter 13 is prefixed with the four initials &ldquo;A.L.M.R.&rdquo; and contains a total of 1482 of these letters (19 x 78).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (621,71,4,1,1,'&lt;div &gt;(40) Chapter 7 is initialed with the four letters &ldquo;A.L.M.S.&rdquo; and the frequency of occurrence of these four letters in this chapter is 5320, or 19 x 280.&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (622,71,5,1,1,'&lt;div &gt;(41) The number of Quranic initials is 14, and the alphabet letters which participate in making these initials are also 14, and the number of initialed chapters is 29. When we add these numbers, 14 14 29, we find the total 57, or 19 x 3.&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (623,71,6,1,1,'&lt;div &gt;(42) The Quranic initials are described as &ldquo;Miracle of the Quran&rdquo; (see Page 240 [of the book &ldquo;Quran: Visual Presentation of the Miracle&rdquo;]).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (624,71,7,1,1,'&lt;div &gt;(43) The common denominator throughout Quran is the number [19], and this is the numerical value of the Arabic word &ldquo;ONE=Waahid.&rdquo; Thus, this miracle emphasizes the theme of Quran and its basic message: &ldquo;GOD IS ONE.&rdquo;&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (625,71,8,1,1,'CONCLUSION:');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (626,71,9,1,1,'&lt;div &gt;The physical evidence presented here proves: (1) The divine source of Quran. (2) The perfect integrity and preservation of Quran.&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (627,72,1,1,1,'&lt;div class=\"page-number\"&gt;- 64 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (628,72,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;QURAN: ONLY SOURCE OF GUIDANCE (6:19)&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (629,72,3,1,1,'&lt;p class=\"margin-top-15\" &gt;Accepting any other sources of guidance constitutes the setting up of other gods beside God; IDOLWORSHIP.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (630,72,4,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (631,72,5,1,1,'&lt;p&gt;THIS IMPORTANT STATEMENT HAPPENS TO BE No. 19 :&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (632,72,6,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (633,72,7,1,1,'&lt;p&gt;&ldquo;Say (O Muhammad), &lsquo;Whose testimony is greater?&rsquo; Say, &lsquo;God is my witness that THIS QURAN was given to me to preach it to you, and whomever it reaches.&rsquo; Yet, you bear witness that there are other gods beside God (by upholding other sources beside Quran). Say, &lsquo;I do not bear such witness.&rsquo; Say, &lsquo;There is only ONE GOD, and I disown your idolworship.&rsquo;&rdquo; (6:19)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (634,72,8,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (635,72,9,1,1,'&lt;p&gt;This crucial verse happens to be No. 19&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (636,73,1,1,1,'&lt;div class=\"page-number\"&gt;- 65 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (637,73,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;WE LEFT NOTHING OUT OF THIS BOOK (QURAN) (6:38)&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (638,73,3,1,1,'&lt;p&gt;* The Arabic text of this verse consists of 19 letters.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (639,73,4,1,1,'&lt;p&gt;* The number of this verse is 38; or 19 x 2.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (640,73,5,1,1,'&lt;div &gt;arabic letterssssss&lt;/div &gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (641,73,6,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (642,74,1,1,1,'&lt;div class=\"page-number\"&gt;- 66 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (643,74,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;GOD REVEALED THIS BOOK FULLY DETAILED (6:114)&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (644,74,3,1,1,'&lt;p&gt;* The Arabic text of this verse consists of 19 letters.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (645,74,4,1,1,'&lt;p&gt;* The number of this verse is 114; or 19 x 6.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (646,74,5,1,1,'&lt;div&gt;[ The Arabic letters of this statement are shown, each with a consecutive number under it to demonstrate that it is indeed 19 Arabic letters.]&lt;/div &gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (647,74,6,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (648,75,1,1,1,'&lt;div class=\"page-number\"&gt;- 67 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (649,75,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;THE WORD OF YOUR LORD (THIS QURAN) IS  COMPLETE, IN TRUTH AND JUSTICE (6:115).&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (650,75,3,1,1,'&lt;p class=\"margin-top-15\" &gt;This statement consists of 19 letters in the Arabic text.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (651,75,4,1,1,'&lt;div&gt;[ The Arabic letters of this statement are shown, each with a consecutive number under it to demonstrate that it is indeed 19 Arabic letters.]&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (652,75,5,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (653,76,1,1,1,'&lt;div class=\"page-number\"&gt;- 68 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (654,76,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;MUHAMMAD FORBIDDEN FROM ANTICIPATING QURAN&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (655,76,3,1,1,'&lt;p class=\"margin-top-15\" &gt;The Prophet Muhammad received an order from God enjoining him from uttering Quranic material without authorization, and ordering him to adhere strictly to Quran and follow it, once it is revealed.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (656,76,4,1,1,'&lt;p&gt;This verse is No. 114, in Chapter 20.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (657,76,5,1,1,'&lt;p class=\"center\"&gt;114 = 19 x 6&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (658,76,6,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (659,76,7,1,1,'&lt;hr/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (660,76,8,1,1,'&lt;p&gt;Could it be coincidental that the number of this verse is the same as the total number of suras in Quran?&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (661,76,9,1,1,'&lt;p&gt;God and His messenger want us to uphold Quran, the whole Quran, and nothing but Quran.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (662,77,1,1,1,'&lt;div class=\"page-number\"&gt;- 69 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (663,77,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;MUHAMMAD FORBIDDEN FROM EXPLAINING QURAN&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (664,77,3,1,1,'&lt;p class=\"margin-top-15\" &gt;There are those who claim that Quran is too difficult to understand, and that &ldquo;Hadith &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (665,77,4,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (666,77,5,1,1,'&lt;p&gt;&ldquo;Do not move your tongue (O Muhammad) to hasten the revelation of Quran. It is we who will put it together as a Quran. Once we reveal it, YOU SHALL FOLLOW IT. Then, it is we who will explain it.&rdquo; (75:16-19)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (667,77,6,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (668,77,7,1,1,'&lt;p&gt;The verse stating that God is the one who explains Quran happens to be verse No. 19.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (669,78,1,1,1,'&lt;div class=\"page-number\"&gt;- 70 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (670,78,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;QURAN CONTAINS ALL THE EXAMPLES WE NEED&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (671,78,3,1,1,'&lt;p class=\"margin-top-15\" &gt;There are four scattered verses stating generally that Quran contains all the examples, allegories, or similitudes that we need. These verses are 17:89, 18:54, 30:58, &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (672,78,4,1,1,'&lt;p&gt;89   54   58   27 = 228 = 19 x 12.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (673,78,5,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (674,78,6,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (675,78,7,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (676,78,8,1,1,'&lt;div&gt;(Continued on the next page)&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (677,79,1,1,1,'&lt;div class=\"page-number\"&gt;- 71 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (678,79,2,1,1,'&lt;div&gt;(Continued from the previous page)&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (679,79,3,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (680,79,4,1,1,'&lt;p class=\"indent\" &gt;The verse numbers of the four verses are 89, 54, 58, and 27.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (681,79,5,1,1,'&lt;p&gt;89   54   58   27 = 228&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (682,79,6,1,1,'&lt;p&gt;228 = 19 x 12&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (683,79,7,1,1,'&lt;p class=\"indent margin-top-15\" &gt;The verses shown above further state that Muhammad is a human being who dies like the rest of us, and that we shall follow ONE SOURCE of law, rather than a number of contradicting sources. The ONE SOURCE is identified in verse 28 above as QURAN.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (684,80,1,1,1,'&lt;div class=\"page-number\"&gt;- 72 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (685,80,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;HADITH: WHERE THEY FIND ANYTHING THEY WISH&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (686,80,3,1,1,'&lt;p class=\"margin-top-15\" &gt;Finally, here is a piece of PHYSICAL EVIDENCE informing us that the believers can be distinguished by the fact that they follow THE ONE CONSISTENT SOURCE (Quran), while the disbelievers follow &ldquo;a book wherein they find anything they want.&rdquo; It is well known that we can find anything we want in the books of &ldquo;Hadith.&rdquo;&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (687,80,4,1,1,'&lt;p&gt;Finally, here is a piece of PHYSICAL EVIDENCE informing us that the believers can be distinguished by the fact that they follow THE ONE CONSISTENT SOURCE (Quran), while the disbelievers follow &ldquo;a book wherein they find anything they want.&rdquo; It is well known that we can find anything we want in the books of &ldquo;Hadith.&rdquo;The statement, in the form of a question to the disbelievers, says, &ldquo;DO YOU FOLLOW A BOOK WHEREIN YOU FIND ANYTHING YOU WANT?&rdquo;&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (688,80,5,1,1,'&lt;p&gt;This important statement happens to be No. 38&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (689,80,6,1,1,'&lt;p&gt;38 = 19 x 2&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (690,80,7,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (691,80,8,1,1,'&lt;p&gt;&ldquo;Shall we treat the Muslims like the criminals? What is wrong with your judgment? DO YOU FOLLOW A BOOK WHEREIN YOU FIND ANYTHING YOU WANT?&rdquo; (68:3538)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (692,81,1,1,1,'&lt;div class=\"page-number\"&gt;- 73 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (693,81,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;GOD CALLS QURAN: COMPLETE (6:115)&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (694,81,3,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;GOD CALLS QURAN: FULLY DETAILED (6:114)&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (695,81,4,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;GOD CALLS QURAN: PERFECT (6:38)&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (696,81,5,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;THE PROPHET DELIVERS QURAN ALONE (69:40-47)&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (697,81,6,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;HADITH &lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (698,81,7,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;YOU SHALL UPHOLD QURAN ALONE (6:19; 7:3; etc.)&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (699,81,8,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;GOD PROVIDED EVEN PHYSICAL EVIDENCE (see Pages 64-72)&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (700,81,9,1,1,'&lt;p class=\"center bold\" &gt;Why then do they fail to see all this???!!!&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (701,82,1,1,1,'&lt;div class=\"page-number\"&gt;- 74 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (702,82,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;WHY DO THEY FAIL TO BELIEVE GOD?&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (703,82,3,1,1,'&lt;p class=\"indent margin-top-15\" &gt;Because their hearts inside are denying what they utter with their mouths. They confess belief due to social and educational circumstances, but their hearts inside are denying:&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (704,82,4,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (705,82,5,1,1,'&lt;p&gt;&ldquo;Your god is ONE GOD. However, those who do not believe in the hereafter, their hearts are denying, and they are too arrogant.&rdquo; (16:22)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (706,82,6,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (707,82,7,1,1,'&lt;p&gt;The consequence of this denying (one&rsquo;s deep convictions are denying) is total isolation from Quran:&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (708,82,8,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (709,82,9,1,1,'&lt;p&gt;&ldquo;When you read Quran, we place between you and those who do not believe in the hereafter AN INVISIBLE BARRIER. And we place shields on their hearts to prevent them from understanding it, and deafness in their ears; and when you preach your Lord (ALONE) in the QURAN ALONE they run away in aversion.&rdquo; (17:4546)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (710,82,10,1,1,'&lt;hr/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (711,82,11,1,1,'&lt;p&gt;Therefore, they cannot accept QURAN ALONE; they look for other sources such as &ldquo;Hadith &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (712,83,1,1,1,'&lt;div class=\"page-number\"&gt;- 75 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (713,83,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;GUARANTEED VICTORY&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (714,83,3,1,1,'&lt;p class=\"indent margin-top-15\" &gt;The Quran teaches, unequivocally, that victory is G U A R A N T E E D for the Muslims:&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (715,83,4,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (716,83,5,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (717,83,6,1,1,'&lt;p&gt;&ldquo;We have decreed that the believers will be victorious.&rdquo; (30:47)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (718,83,7,1,1,'&lt;p&gt;&ldquo;We will positively grant victory to our messengers, and to those who believe, both in this live and on the day of resurrection.&rdquo; (40:51)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (719,83,8,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (720,83,9,1,1,'&lt;p&gt;&ldquo;God will support with victory those who support Him. God is powerful, Almighty.&rdquo; (22:40)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (721,83,10,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (722,83,11,1,1,'&lt;p&gt;&ldquo;God will surely defend those who believe. God does not like any betrayer, disbeliever.&rdquo; (22:38)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (723,83,12,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (724,83,13,1,1,'&lt;p&gt;&ldquo;O you who believe, if you support God, He will grant you victory, and strengthen your foothold.&rdquo; (47:7)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (725,84,1,1,1,'&lt;div class=\"page-number\"&gt;- 76 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (726,84,2,1,1,'&lt;div class=\"heading bold padding-10 solid\"&gt;WHY THEN ARE THE MUSLIMS DEFEATED ?&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (727,84,3,1,1,'&lt;p class=\"margin-top-15\" &gt;In view of the guarantees shown on the previous page, and since God is never wrong, the &ldquo;Muslims&rdquo; of today could not possibly be Muslims.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (728,84,4,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (729,84,5,1,1,'HISTORICAL FACTS');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (730,84,6,1,1,'&lt;p&gt;For as long as the Muslim Ummah upheld Quran, and nothing but Quran, the Muslims led the world scientifically, technologically, culturally, socially, militarily, and economically. They never lost a single battle. The borders of Islam extended from West Africa to China; into Southern France and Eastern Germany.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (731,84,7,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (732,84,8,1,1,'&lt;p&gt;With the appearance of Hadith &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (733,84,9,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (734,84,10,1,1,'&lt;p&gt;Why do 3 million Israelis consistently defeat 150 million Arabs???&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (735,84,11,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (736,84,12,1,1,'&lt;p&gt;Does it make any sense that 3 million Israelis should force 1,000 million &ldquo;Muslims&rdquo; out of their Mosque in Jerusalem?&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (737,84,13,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (738,84,14,1,1,'&lt;p&gt;Why does India consistently defeat Pakistan? Why do the Russians invade Afghanistan? etc...etc...etc.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (739,84,15,1,1,'&lt;hr /&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (740,85,1,1,1,'&lt;div class=\"page-number\"&gt;- 77 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (741,85,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;WHY THEN ARE THE &ldquo;MUSLIMS&rdquo; DEFEATED?&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (742,85,3,1,1,'&lt;p class=\"margin-top-15\" &gt;BECAUSE they refuse to believe God in His repeated statements that Quran is COMPLETE, PERFECT, FULLY DETAILED, and SHALL BE THE ONLY SOURCE OF RELIGIOUS GUIDANCE.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (743,85,4,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (744,85,5,1,1,'&lt;p &gt;Because they have accepted other sources, namely, Hadith and Sunna, beside Quran.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (745,85,6,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (746,85,7,1,1,'&lt;p&gt;&ldquo;Whoever disregards My message (Quran) shall have a miserable life, then we will resurrect him, on the Day of Resurrection, blind. He will say, &lsquo;My Lord, why did You resurrect me blind, when I used to be a seer (in the first life)?&rsquo; (God will say), &lsquo;This is because Our revelations came to you, but your forgot them, and consequently, today we forget you.&rsquo; We thus punish those who exceed the limits and refuse to believe the verses of their Lord. And surely, the retribution in the Hereafter is far worse, and everlasting.&rdquo; (20:124127)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (747,85,8,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (748,86,1,1,1,'&lt;div class=\"page-number\"&gt;- 78 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (749,86,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;HADITH CAUSED DEVIATION FROM QURAN!&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (750,86,3,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;(1) IS THIS HOW YOU DO YOUR ABLUTION (WUDU)?&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (751,86,4,1,1,'&lt;p class=\"margin-top-15\" &gt;Although God&rsquo;s orders are clear and simple in Quran about the observance of ablution, the &ldquo;Muslim&rdquo; masses follow another god beside God; they do not do the ablution as prescribed by God. The ultimate result: humiliation &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (752,86,5,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (753,86,6,1,1,'&lt;p&gt;&ldquo;O you who believe, when you get up to perform the Salat prayers you shall wash your faces, your hands up to the elbows, wipe your heads, and wash your feet.&rdquo; (5:6)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (754,86,7,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (755,86,8,1,1,'&lt;p&gt;The &ldquo;Muslim&rdquo; masses today refuse to be satisfied with the commandments of God. They uphold commandments of men, such as the various &ldquo;imams&rdquo; and &ldquo;scholars.&rdquo; As a result, they have a prolonged ablution that depends on which &ldquo;sect&rdquo; they follow. All sects resulted from the various &ldquo;imams&rdquo; opinions as to how the Prophet is supposed to have done his ablution. Thus, they fell in Satan&rsquo;s trap, disobeyed their Creator, and incurred misery and defeat.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (756,87,1,1,1,'&lt;div class=\"page-number\"&gt;- 79 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (757,87,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;HADITH CAUSED DEVIATION FROM QURAN!&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (758,87,3,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;(2) IS THIS HOW YOU DO YOUR SALAT PRAYERS?&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (759,87,4,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (760,87,5,1,1,'&lt;p&gt;&ldquo;When you observe your Salat prayers, your voice shall not be too loud, nor too low; you shall maintain an intermediate tone.&rdquo; (17:110)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (761,87,6,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (762,87,7,1,1,'&lt;p&gt;Despite these straightforward instructions from God, the &ldquo;Muslim&rdquo; masses were diverted by Hadith; they maintain total silence during the noon prayer, the afternoon prayer, the third unit of the sunset prayer, and the second half of the night prayer. WHERE DID THEY GET THESE INSTRUCTIONS? From another god beside God; from other sources beside Quran.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (763,87,8,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (764,87,9,1,1,'&lt;p&gt;Thus, they fell en masse in Satan&rsquo;s traps, and disobeyed their Creator, whose word (Quran) is complete, perfect, and fully detailed (6:19, 38, &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (765,87,10,1,1,'&lt;hr /&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (766,88,1,1,1,'&lt;div class=\"page-number\"&gt;- 80 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (767,88,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;HADITH CAUSED DEVIATION FROM QURAN&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (768,88,3,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;(3) Do you mention other names beside God&rsquo;s in Salat?&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (769,88,4,1,1,'&lt;p class=\"margin-top-15\" &gt;It is God&rsquo;s commandment that we shall not mention any names in our Salat prayers, beside the name of God (72:18).&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (770,88,5,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (771,88,6,1,1,'&lt;p&gt;But the Muslim masses today follow the innovations that dictate upon them the praising and glorifying of Muhammad and Abraham, while praying to their Lord.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (772,88,7,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (773,88,8,1,1,'&lt;p&gt;&ldquo;The mosques belong to God; therefore, do not mention any other names beside the name of God.&rdquo; (72:18)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (774,88,9,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (775,88,10,1,1,'&lt;div class=\"margin-top-5 solid drop-sides\" &gt;WHAT IS MORE CLEAR THAN THAT?&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (776,88,11,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (777,88,12,1,1,'&lt;p&gt;The &ldquo;Muslims&rdquo; have been duped by Satan into uttering the innovation known as &ldquo;Tashahhud&rdquo; where they shower praises and glorifications on Muhammad and Abraham.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (778,88,13,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (779,88,14,1,1,'&lt;p&gt;It should be noted that even the sources of Hadith &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (780,88,15,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (781,88,16,1,1,'&lt;p class=\"bold\"&gt;&lt;u&gt;IS THIS NOT FLAGRANT IDOLWORSHIP&lt;/u&gt; ???&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (782,89,1,1,1,'&lt;div class=\"page-number\"&gt;- 81 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (783,89,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;HADITH &lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (784,89,3,1,1,'&lt;p class=\"margin-top-15\" &gt;After stating that the law against adultery is &ldquo;perfectly clear,&rdquo; the Quranic commandment orders us to punish the adulterers by whipping them one hundred lashes.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (785,89,4,1,1,'&lt;p&gt;Did the Muslims follow and obey their Creator? NO.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (786,89,5,1,1,'&lt;p&gt;The Muslim &ldquo;scholars&rdquo; declared that the Quranic law is not clear !!! They claimed that the adulterers are not defined in Quran with regard to their marital status, and that they need Hadith to clarify Quran !!!&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (787,89,6,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (788,89,7,1,1,'&lt;p&gt;&ldquo;This Sura we send down, and decree as law, and send down in it verses that are perfectly clear, that you may take heed. The adulteress and adulterer, you shall whip each of them a hundred lashes, and do not be deterred by kindness from carrying out God&rsquo;s law, if you truly believe in God and the Last Day. Let a group of believers witness their punishment.&rdquo; (24:12)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (789,89,8,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (790,89,9,1,1,'&lt;p&gt;Overcome by tradition, and Satan&rsquo;s influence, the &ldquo;Muslim&rdquo; scholars instituted &ldquo;stoning to death&rdquo; as the punishment for married adulterers !!!&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (791,90,1,1,1,'&lt;div class=\"page-number\"&gt;- 82 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (792,90,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;OBEY GOD AND OBEY THE MESSENGER&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (793,90,3,1,1,'&lt;p class=\"margin-top-15\" &gt;Satan succeeded in duping millions of Muslims into believing that obeying God means obeying the Quran, while obeying the messenger means obeying Hadith.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (794,90,4,1,1,'&lt;p class=\"margin-top-15\" &gt;What helped in popularizing this Satanic trick was the general ignorance of Quran among the Muslim masses, and their failure to heed the divine commandments that Quran shall be the ONLY SOURCE of jurisprudence and/or religious guidance.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (795,90,5,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (796,90,6,1,1,'&lt;p class=\"margin-top-15\" &gt;Only a little thinking leads us to realize that Quran came to us through Muhammad&rsquo;s mouth, and DID NOT COME TO US FROM GOD DIRECTLY. Hence the commandment that we shall obey the messenger...for he utters the words of God.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (797,90,7,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (798,90,8,1,1,'&lt;p class=\"margin-top-15\" &gt;All previous scriptures have stated the same Quranic truth that: &ldquo;Whoever obeys the messenger is obeying God.&rdquo; Since the messenger obviously is not God, the commandment clearly means obeying the words of God uttered by the messenger.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (799,90,9,1,1,'&lt;p class=\"margin-top-15 word-spacing-2 nu\" &gt;The knowledgeable and fortunate believers, therefore, realize that Hadith &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (800,91,1,1,1,'&lt;div class=\"page-number\"&gt;- 83 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (801,91,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;MUHAMMAD&rsquo;S HADITHS ARE NOT MUHAMMAD&rsquo;S&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (802,91,3,1,1,'&lt;p class=\"indent margin-top-15\" &gt;Instead, they are the Hadiths (narrations) of men and women who never saw the Prophet; in fact, the grandparents of their grandparents never saw the Prophet.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (803,91,4,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (804,91,5,1,1,'&lt;p class=\"indent margin-top-15\" &gt;It is well known that the first book of Hadith is that of Bukhary, who was born more than 200 years after the death of Muhammad. When Bukhary wrote his book of Hadiths, he used to visit the people whom he knew as sources. After verifying that his source is &ldquo;truthful,&rdquo; and known as a man or woman of righteousness, Bukhary would ask, &ldquo;Do you know a Hadith?&rdquo; The person would answer, &ldquo;Yes,&rdquo; then proceed to narrate the &ldquo;Hadith&rdquo; as follows: &ldquo;I heard my father, may God bless his soul, say that he heard his older brother, may God bless his soul, say that he was sitting with his grandmother, may God bless her soul, and she told him that she was having dinner one day with her great uncle, may God bless his soul, when he stated that his maternal grandfather knew Imam Ahmad ibn Muhammad alAmawy, who mentioned that his grandfather heard from his oldest uncle that he met the great companion of the Prophet Omar ibn Khaled AlYamany, and he told him that the Prophet, peace be upon him, said, &lsquo;......&rsquo;&rdquo;&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (805,91,6,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (806,91,7,1,1,'&lt;p class=\"indent margin-top-15\" &gt;Thus, the Hadith is simply a narration by Bukhary&rsquo;s source, claiming that he or she heard something about the Prophet across eight generations of the dead.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (807,91,8,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (808,91,9,1,1,'&lt;p class=\"indent margin-top-15\" &gt;On the other hand, we now possess irrefutable physical evidence that Quran is the infallible word of God, and that it was uttered by the Prophet Muhammad. Therefore, we obey the messenger by obeying Quran; nothing but Quran.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (809,91,10,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (810,92,1,1,1,'&lt;div class=\"page-number\"&gt;- 84 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (811,92,2,1,1,'&lt;p class=\"margin-top-15\" &gt;Instead, it is obedience to the men and women who narrated the &ldquo;Hadiths.&rdquo;&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (812,92,3,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (813,92,4,1,1,'&lt;p class=\"margin-top-15\" &gt;Obeying the socalled &ldquo;Hadith of the Prophet,&rdquo; is in fact obeying a group of simpleminded people who thought that the Prophet had said something more than 200 years before they were born.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (814,92,5,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (815,92,6,1,1,'&lt;p class=\"margin-top-15\" &gt;Thus, if the narrator of a given Hadith is for example a Abbas ibn Yasser, then obeying the Hadith narrated by Abbas ibn Yasser is in fact obeying Abbas ibn Yasser, and has nothing to do with obeying the Prophet.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (816,92,7,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (817,92,8,1,1,'&lt;p class=\"margin-top-15\" &gt;The true obedience of the Prophet Muhammad is only by obeying Quran, which was indeed uttered by Muhammad, and is supported by indisputable PHYSICAL EVIDENCE.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (818,92,9,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (819,92,10,1,1,'&lt;p class=\"margin-top-15\" &gt;These facts explain the Quran&rsquo;s repeated statements that &ldquo;Only those with intelligence take heed.&rdquo;&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (820,92,11,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (821,92,12,1,1,'&lt;p class=\"margin-top-15\" &gt;The Quran was delivered to us through Muhammad&rsquo;s mouth, without any mediators or narrators. The Quran came through Muhammad&rsquo;s mouth, directly to the ears of the revelation writers who scrupulously wrote it down the moment it was uttered.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (822,92,13,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (823,92,14,1,1,'&lt;p class=\"margin-top-15\" &gt;Thus, Quran is the only true Hadith of Muhammad. Furthermore, the Almighty has guaranteed the eternal preservation of His words, as uttered by Muhammad (15:9).&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (824,93,1,1,1,'&lt;div class=\"page-number\"&gt;- 85 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (825,93,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;THE GREAT DISASTER&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (826,93,3,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (827,93,4,1,1,'&lt;p&gt;&ldquo;(On the day of judgment) the disbelievers will be told, &lsquo;God&rsquo;s abhorrence towards you is far worse than your own abhorrence towards yourselves, for you were invited to the faith but refused.&rsquo; They will say, &lsquo;Our Lord, You gave us two deaths and two lives, and now we confess our sins; IS THERE ANYWAY OUT?&rsquo; That is because when GOD ALONE was advocated, you refused to believe. But when idols were advocated along with Him, you believed. Therefore, judgment now belongs with God, the most high, the great.&rdquo; (40:10-12)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (828,93,5,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (829,93,6,1,1,'&lt;p&gt;When GOD ALONE is advocated, do you believe? OR Do you have to have others advocated along with Him?&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (830,93,7,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (831,94,1,1,1,'&lt;div class=\"page-number\"&gt;- 86 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (832,94,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;THE GREAT DISASTER&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (833,94,3,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (834,94,4,1,1,'&lt;p&gt;&ldquo;When their messengers went to them with clear evidence, they were satisfied with the knowledge they already had, and the very thing they ridiculed caused their doom. Then, when they saw our retribution, they said, &lsquo;NOW WE BELIEVE IN GOD ALONE AND WE REJECT OUR PREVIOUS IDOLATRY.&rsquo; But alas, their belief is useless to them after they see the retribution. Such is God&rsquo;s law which is never changeable; such disbelievers are doomed.&rdquo; (40:83-5)&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (835,94,5,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (836,94,6,1,1,'&lt;p&gt;Are you happy and satisfied with the knowledge you inherited from your parents, elders or scholars? (Hadith &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (837,94,7,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (838,94,8,1,1,'&lt;p&gt;Are you willing to give up such knowledge, in favor of God&rsquo;s teachings? OR, will it be too late for you?&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (839,94,9,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (840,95,1,1,1,'&lt;div class=\"page-number\"&gt;- 87 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (841,95,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;THE GREAT CRITERION&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (842,95,3,1,1,'&lt;div class=\"margin-top-15 solid drop-sides padding-15\" &gt;arabic&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (843,95,4,1,1,'&lt;p&gt;&ldquo;When God ALONE is advocated, the hearts of those who do not believe in the hereafter shrink with aversion. But when idols are mentioned besides Him, they rejoice &ldquo;(39:45).&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (844,96,1,1,1,'&lt;div class=\"page-number\"&gt;- 88 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (845,96,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;CLARIFICATION:  WHY ARE WE HERE?&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (846,96,3,1,1,'&lt;p class=\"indent margin-top-15\" &gt;The whole matter of Quran vs Hadith &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (847,96,4,1,1,'&lt;p class=\"indent\" &gt;We exist in this world for one, and only one, purpose. As stated in Quran (67:12 &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (848,96,5,1,1,'&lt;p class=\"indent\" &gt;Satan wanted to be a partner with God; a god beside God. Consequently, God created Adam to expose Satan&rsquo;s rebellious ideas. And God created us to show Satan, and all the angels that we can worship Him ALONE, without need for any partners.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (849,96,6,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (850,96,7,1,1,'&lt;p&gt;The purpose of our existence, therefore, is to worship GOD ALONE. This is why the only unforgivable offense is idolworship. That is because once we idolize anyone, or anything, beside God, we fail the test.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (851,96,8,1,1,'&lt;hr class=\"dashed\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (852,96,9,1,1,'&lt;p&gt;We fulfill the purpose of our existence only if we succeed in worshiping GOD ALONE, without idolizing Muhammad, or Jesus, or Mary, or any saint, or any imam, or anyone, or anything.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (853,96,10,1,1,'&lt;hr /&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (854,96,11,1,1,'&lt;p&gt;When we seek &ldquo;religious&rdquo; instructions from Muhammad, or any other source beside God, we support Satan in his claim that God needs a partner. Therefore, those who worship God ALONE follow the instructions and teachings of GOD ALONE. As shown throughout this book, God&rsquo;s teachings are complete, perfect, and fully detailed in Quran.&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (855,96,12,1,1,'&lt;hr /&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (856,97,1,1,1,'&lt;div class=\"page-number\"&gt;- 89 -&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (857,97,2,1,1,'&lt;div class=\"heading padding-10 solid\"&gt;FINALLY: MOST IMPORTANT QUESTION&lt;/div&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (858,97,3,1,1,'solid bar');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (859,97,4,1,1,'&lt;p class=\"indent margin-top-15\" &gt;In your mind, can God survive ALONE???&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (860,97,5,1,1,'&lt;p class=\"indent\" &gt;Or, does God need Muhammad, in your mind, in order to be commemorated and worshiped???&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (861,97,6,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (862,97,7,1,1,'&lt;p class=\"margin-top-15\" &gt;In your mind, can GOD ALONE survive?&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (863,97,8,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (864,97,9,1,1,'&lt;p class=\"margin-top-15\" &gt;Or, does God need a partner, in your mind, such as Muhammad, Jesus, Mary, or some saint(s)???&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (865,97,10,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (866,97,11,1,1,'&lt;p class=\"margin-top-15\" &gt;Would you be perfectly happy and content if you knew about GOD ALONE, without Muhammad, Jesus, Mary, or any saint, or anyone, or anything?&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (867,97,12,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (868,97,13,1,1,'&lt;p class=\"margin-top-15\" &gt;Are you annoyed by talking about GOD ALONE?&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (869,97,14,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (870,97,15,1,1,'&lt;p class=\"margin-top-15\" &gt;When I keep talking about GOD ALONE, does this annoy you? Do you have to hear other names along with God? Can GOD ALONE survive in your mind?&lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (871,97,16,1,1,'&lt;hr class=\"dotted\"/&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (872,97,17,1,1,'When I repeat, and repeat, my talk about GOD ALONE, do you feel any repulsion? Or, are you happy and content with the talk about GOD ALONE??? Based on the Great Quranic criterion, as stated in 39:45, your answers to these questions provide the key to knowing yourself, and your destiny.');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (873,97,18,1,1,'dotted bar');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (874,97,19,1,1,'Based on the Great Quranic criterion, as stated in 39:45, your answers to these questions provide the key to knowing yourself, and your destiny.');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (875,97,20,1,1,'dotted bar');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (876,98,1,1,1,'Witness A Miracle The Quran&rsquo;s miraculous numerical coe visibly superimposed over the Quran itself. Irrefutable Physical Evidence that Quran is Gods message to the world. Be a witness by reading:\nQuran:\nVISUAL PRESENTATION OF THE MIRACLE-\nby Rashad Khalifa, Ph.D.\n250 pages $10.00\nOrder from: ISLAMIC PRODUCTIONS 739 E. 6th St.\nTucson, AZ 85719');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (877,99,1,1,1,'DOES IT MAKE SENSE? 3, 000, 000 Israelis consistently defeat 150, 000, 000 Arabs.\n3, 000, 000 Israelis deprive 1, 000, 000, 000 Muslims of their Mosque in Jerusalem.\nFIND OUT WHY\nYou will KNOW the real reason when you read\nby Rashad Khalifa, Ph.D.\nOrder from ISLAMIC PRODUCTIONS 739 E. 6th Street\nTucson, AZ 85719');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (878,100,1,1,1,'space');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (879,101,1,1,1,'space');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (880,102,1,1,1,'space');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (881,103,1,1,1,'space');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (882,104,1,1,1,'&lt;p&gt;Victory, health, wealth, peace of mind, and perfect happiness are absolutely guaranteed by God for those who follow His guidance (Quran 2:38; 3:160, 22:38, 40; 24:55; 30:47; &lt;/p&gt;');
+INSERT INTO `qhi_en` (`id`,`pageId`,`lineNumber`,`boxId`,`barId`,`content_html`) VALUES (883,104,2,1,1,'&lt;p&gt;This book explains this apparent contradiction, and points out the sure way to absolute victory, health, wealth, peace of mind, and perfect happiness; for nations as well as individuals.&lt;/p&gt;');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
