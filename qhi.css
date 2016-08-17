@@ -44,6 +44,14 @@
     font-weight: bold;
 }
 
+.big-font{
+    font-size: 1.25em;
+}
+
+.big-font-s{
+    font-size: 1.15em;
+}
+
 /* NO UNDERLINE */
 
 .nu {
@@ -73,8 +81,15 @@ p{
     border: 1px solid black;
 }
 
+.solid-2 {
+    border: 2px solid black;
+}
+
 .bottom{
-    border-bottom: 1px solid black;
+    /*border-bottom: 1px solid black;*/
+    border-left: none !important;
+    border-right: none !important;
+    border-top: none !important;
 }
 
 .dashed {
@@ -100,14 +115,26 @@ p{
     padding: 15px !important;
 }
 
+.padding-sides-10 {
+    padding: 0 10px;
+}
+
 .padding-sides-15 {
     padding: 0 15px;
+}
+
+.padding-left-10{
+    padding-left: 10px;
 }
 
 /* MARGIN */
 
 .margin-top-15 {
     margin-top: 15px !important;
+}
+
+.margin-top-20 {
+    margin-top: 20px !important;
 }
 
 /* LETTER SPACING */
@@ -126,12 +153,33 @@ p{
     word-spacing: normal !important;
 }
 
+.word-spacing-1 {
+    word-spacing: 1.5px;
+    text-decoration: underline;
+}
+
 .word-spacing-2 {
     word-spacing: 2px;
     letter-spacing: 1.5px;
     text-decoration: underline;
 }
 
+.double-hr{
+    height: 1.5px;
+}
+
+.word-underlined{
+    letter-spacing: 2.5px;
+    text-decoration: underline;
+}
+
+.line-spacing-2 {
+    line-height:200%;
+}
+
+.left{
+    text-align: left !important;
+}
 /************ NOT USED **************/
 
 body{
